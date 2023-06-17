@@ -7,8 +7,7 @@ UMP45Number=0 --适合角色：红· 明
 JQNumber=0 --适合角色：红· 拉薇
 ZhuanzhuNumber= 0 --适合角色：蓝· 伊薇特
 AK47Number=4 --适合角色：蓝· 米雪儿李
-ELAumber=8 --
-
+ELAumber=8 --适合角色：黄· 奥黛丽
 
 
 --R6旧模板--
@@ -206,7 +205,7 @@ WMWXS=-1
 WMMYS=17--m762垂直
 WMMXS=3
 --
-ELAXS=-1
+ELAXS=1
 ELAYS=3
 --
 Q552XS=1
@@ -784,13 +783,13 @@ end
 function BoomELA()--------------ela
 
                                      
-                                      MoveMouseRelative(-1*ELAXS, 1*ELAYS)
+                                      MoveMouseRelative(1*ELAXS, 1*ELAYS)
 Sleep(28)
                                     
-                                      MoveMouseRelative(1*ELAXS, 1*ELAYS)
+                                      MoveMouseRelative(-1*ELAXS, 1*ELAYS)
 Sleep(20)
                                      
-                                      MoveMouseRelative(0*ELAXS, 1*ELAYS)
+                                      MoveMouseRelative(1*ELAXS,1*ELAYS)
            
              
                                   Sleep(30)
