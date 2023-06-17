@@ -2,11 +2,11 @@
 --卡拉彼丘特调--
 LDNumber = 0  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 LD0Number = 0  --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：黄·白墨
-MPXNumber= 0 --适合角色：黄· 星绘
+MPXNumber= 5 --适合角色：黄· 星绘
 UMP45Number=0 --适合角色：红· 明
 JQNumber=0 --适合角色：红· 拉薇
 ZhuanzhuNumber= 0 --适合角色：蓝· 伊薇特
-AK47Number=0 --适合角色：蓝· 米雪儿李
+AK47Number=4 --适合角色：蓝· 米雪儿李
 ELAumber=8 --
 
 
@@ -206,8 +206,8 @@ WMWXS=-1
 WMMYS=17--m762垂直
 WMMXS=3
 --
-ELAXS=0
-ELAYS=9
+ELAXS=-1
+ELAYS=3
 --
 Q552XS=1
 Q552YS=11--552
