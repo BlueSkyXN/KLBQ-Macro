@@ -2,10 +2,11 @@ zhuozhe = "1145141919810"--！不要修改！ 否则鼠标会消失！
 zhengban = "1145141919810"--！不要修改！ 否则鼠标会消失！
 --基于其他游戏的鼠标宏魔改，不需要理会旧的备注
 --罗技鼠标键位设置 
-LDNumber = 5 --卡丘~速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
-R301 =7 ----AK12 2.5 
+LDNumber = 5 --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
+LD0Number = 4 --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：
+R301 =0 ----AK12 2.5 
 M600 =0----36C 2.5
-R99 =8----C8 2.5 
+R99 =0----C8 2.5 
 VK47 = 0 ---f2 2.5 
 RE45 = 0----mp5 2.5
 ZHZCF = 0 ----火花2.5 
@@ -52,12 +53,12 @@ Rightclicknextfire = true--长按右键 才压枪 true=开启 false =关闭！�
 --默认压枪系数 如果有需要调整自己改 垂直 就是垂直系数
 LDXS=1--连点压枪系数
 LDSD=10--连点速度
+LD0XS=0--无压连点压枪系数
+LD0SD=10--连点速度
 ----
 DCXS=1
 DCYS=5--大锤步枪
-
-
-
+----
 AKXS=1--AK水平
 AKYS=17.6 --AK垂直
 ----
@@ -66,16 +67,12 @@ M6XXS=1--水平
 ----
 C4XS=-1
 C4YS=8--416c
-
 ----
 F2XS=-1--水平
 F2YS=17.1--F2垂直
 --
-
 MP5XS=-1
 MP5YS=9--MP5垂直
---
-
 --
 M7XS=-1
 M7YS=8.1--MP7垂直系数
@@ -326,6 +323,25 @@ Sleep(LDSD)
 			end
   end
 
+function ACP0u()
+ MoveMouseRelative(0,2*LD0XS)
+			PressMouseButton(1)
+			Sleep(LD0SD)
+
+ MoveMouseRelative(0,1*LD0XS)
+Sleep(LD0SD)
+
+			ReleaseMouseButton(1)
+		Sleep(LD0SD)
+
+
+
+
+			if click then
+			SetMKeyState(3)
+			end
+  end
+	
 -------------------------------------------------------------------------------------------------
 
 function BoomJQ()----脚气
