@@ -1,0 +1,3161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile name="卡拉彼丘-罗技-202306" gpasupported="0" gkeysdk="0" gameid="" launchable="1" guid="{4BBF31ED-A3B4-4095-B6CB-0F055A2FBF1E}" lock="0" lastplayeddate="2023-06-17T10:13:57">
+    <icon>89504e470d0a1a0a0000000d49484452000000300000003008060000005702f987000000097048597300000ec400000ec401952b0e1b000006fd494441546881ed5a6f885c5715ff9dfb663633c6a68e58c16db3b8f7ce66f58311ec42d3f8a74db0b412356949890d69835169114a14f1838a6055548a22d64a206d112c26621b634a6aa42d44b4a55286485a669be4dd731fbbd3aefbc5262a6da6333beff821f7ad6f2733b333d3377ea93f18f6dd7bcf3bbfdf79f7bcfbef2d90114444f56b5ba954f2d6daad59f0f64dda0bccbccd39d7aa56ab63abd9562a957ca9546a1051310bee4c0248502814deec1544b55a1d2b954a8d2c39330d00b8140433ffaebd9e998f140a8537b3e6cb3c008f5b99f96852f001dd360aa2dc289c7aec1091607676360070eba8483209c018f32433dfd45e3f3b3b1b8c226dd2c8ac078c31cfa4cbd56a756cd4e2818cde01e71c8b0825e5ff9578a0cf1e6066e950fd923166230088c84344240060ad3d46449f4d8c8c31e47d5c09e042eafee3ccdc93576b9d23a2562f9bbe7a406bdd335063cc8fbcc827d2e213f8b9e1c26537aec2b99a78a0cf0088a84544bfea65e3457ea6535bb158fc6d3f3c0944e4d17ec40300ad6eb2c271e09c5bf2c5e51402baa6d9c0e8f7c92718e82526a256a7748aa2e8e641fc74c3a0e281218651226a8948ce39b72ba98be3f82d0fc7c38807869c073cd1a17e6c9351a817985986110f0c390f54abd531667edd3977d98833289c733b01606161e11dc3dc3fd04b0c006118ae514ad55355b188bc40449b3ad9f7ea01666e229505711c17a6a6a6069a0007ea810ee201407513df0bede2014029550fc370cd207efa0ec03977a283f8a1c0cc4be8f2fe29a5eaceb913fdfaea2b00e7dc0911b9a55fa7bde0c507bd6c44e4166bed1ffbf1b76a00511415b2126faddd8555c42720a29b6bb5daaafbe6815fe24e60e66d008e776a4b2de6da9ffca78d314fbe55ee516d2957a09fb41916a3dc5202c86e8dd40d23ed01a554512995c9f94f378cac07b4d62ad9e4888872cec5a3e019490f10d1c144bc2f0b111d1c0557e63d907ef26df5778bc83d59f744a63dd04d7c022212ad75a69c993813910bab894f90042122e7b3e0fe3fde76387bf6ec7bb2f093ac932e5b0b596bbf4e44f703ff5dc7880875caef6496554abd6f72727291999f00b04944ee2e97cb473bd8ff14c05700bc608cb9cef3fd89886e989f9fcf4f4f4f8f8d8f8fbfd14bb8b5f65e227a00009acde6bacb8651224a36eba7cf9d3ba773b9dc56e7dc430b0b0b6bd3ceadb5657fb92422fb00fc8088de109192526a3c8aa2ebe238de618cf986177f16c006a5d40745641f33bf42448744e40600989898387cf1e2c59dccbcdb187338f5809ec1a5c126f924f52f007f21a2bf054150ee340f5c0b0022f2c8860d1b1c0007e0e1b4411886db955277880844e439220a9d73b70338424447e2380e94521344740a009c735f14913d00ee8be3f865115920a2711189bccb5900378ac8fe72b97cb84dcf277b6d4bbb0ea34110bc98127cd5993367ae48ca535353c74464090094524f2ba59ed55a3f96fc88683b808d73737347fdc3382d22d700f814803a11bdd7bbfa100010d14b44f49d72b9fc40373dedb0d6de0500c4ccbf04b036d5a6fd5fd75e474407b4d68f0000333700e4011c1591534aa9abb4d6fbadb59b89e83900989f9fcf6fd9b265c9db0b00c471bc4329f57b007f07b0ce739f02f01100078c315f4e48fd3daf0378be4dff1a001f07f0ec8aaea9d56aef6e341aff0080f3e7cf8fcdcccc343b459f8821a2e7b5d69b997902c09c318698d90230447497d6fa516fff4f2f16de46006c5b5a5a3a3d3d3dfd6ad29e4e15e7dc4d22f21411ddabb57ed0d7ed1491c744e4b66490589142cd66737772592a950e32b3586b7fdc1e401cc79bfde5215fbe1a583edb310024110f004aa9697ff99a736ea30fe40fb95cee15663e0c609d887c2ccd2122bb01209fcf1f6aaf33c61c5bf6dd765332021d37c67c1ec01e22fa1a33aff8faa2949a4d3b574a6d02807abd3e4344ae5eafaf4bdbb75aad3bbdff0322f20b008fa79a3f07e055634c7b9aec0280f5ebd7bf06008b8b8b6b016c0700225a5e10ae48a1243544646fb95cee789c9efe80d13e3a30f3bf8d315738e7f688c85663cc3e5fff32800fe4f3f9ab9bcde6bc3126e7d36601c014fc7693883eacb57e31ad25e170ce7d41441e0680388eaf544add6f8cb9a763004aa9eb272727ffda2980f411bb88dc019fdb5ec0cf88e8fb22721f8020b5a16f89c86210041f6db55a3702b88688f66aada799f97622fa0d805f1b63f6586baff5be2a9e63c6bbdf4f4477faeb3f03f844a3d1186e561f74391086e1f6288ade1545d1fbc330bcbebdbd9fe393b727a2282a8461b8e285f41feb005c3a2b4db78988aa56abef4c95696e6eae94b669ff5f0a11593e6ea9d56ac54aa5924ff39f3c79b2e7aeb1e7864644be49448594f81f0278302913d1b7fd120200e09cfb79b158fc49ca7e6fabd5fa6ada6710046b52f6df4ab7351a8dbda552e94b29feef4e4c4c7caf97c6ff0096814c5e90b0f2080000000049454e44ae426082</icon>
+    <description>@BlueSkyXN</description>
+    <target path="E:\CAI\STEAMAPPS\COMMON\TOM CLANCY'S RAINBOW SIX SIEGE\RAINBOWSIX.EXE"/>
+    <target path="E:\CAI\STEAMAPPS\COMMON\TOM CLANCY'S RAINBOW SIX SIEGE\RAINBOWSIX_BE.EXE"/>
+    <signature value="" name="" executable="" key=""/>
+    <macros>
+      <macro name="右键单击" color="4278246655" hidden="true" original="true" guid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="单击中键" color="4278246655" hidden="true" original="true" guid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="左键单击" color="4278246655" hidden="true" original="true" guid="{FB3C3247-0943-4A76-B55F-000DCC38858A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="返回" color="4278246655" hidden="true" guid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro name="前进" color="4278246655" hidden="true" guid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro name="切换 DPI" color="4278246655" hidden="true" guid="{D3B3CC06-8310-48E2-B566-AF4EF0DB77E1}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro name="降低 DPI" color="4278246655" hidden="true" guid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro name="提高 DPI" color="4278246655" hidden="true" guid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro name="向左滚动" color="4278246655" hidden="true" guid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+      <macro name="向右滚动" color="4278246655" hidden="true" guid="{CF86F924-7899-4149-830C-4E0438DC3D6B}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro name="左键单击" color="4278246655" hidden="false" guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="右键单击" color="4278246655" hidden="false" guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="单击中键" color="4278246655" hidden="false" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="返回" color="4278246655" hidden="false" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro name="切换 DPI" color="4278246655" hidden="false" guid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro name="前进" color="4278246655" hidden="false" guid="{8B13562D-60F2-460F-9588-8C84168C81BC}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro name="降低 DPI" color="4278246655" hidden="false" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro name="提高 DPI" color="4278246655" hidden="false" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro name="KuaiSuZhuanShen" color="4278246655" hidden="false" guid="{6AF1CD65-0125-4041-9D49-FDB83D6C01A2}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousemove relative="true" x="127" y="0"/>
+          <delay milliseconds="1"/>
+          <mousemove relative="true" x="127" y="0"/>
+          <delay milliseconds="1"/>
+          <mousemove relative="true" x="127" y="0"/>
+          <delay milliseconds="1"/>
+          <mousemove relative="true" x="127" y="0"/>
+          <delay milliseconds="1"/>
+          <mousemove relative="true" x="120" y="0"/>
+          <delay milliseconds="1"/>
+        </multikey>
+      </macro>
+      <macro repeatmode="toggle" name="KuaiSuBaiTou" color="4278246655" hidden="false" guid="{D5D25A7D-9ADD-472F-B246-6708E4A5BF59}" repeatdelay="1">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="Q" direction="down"/>
+          <delay milliseconds="100"/>
+          <key value="Q" direction="up"/>
+          <delay milliseconds="100"/>
+          <key value="E" direction="down"/>
+          <delay milliseconds="100"/>
+          <key value="E" direction="up"/>
+          <delay milliseconds="100"/>
+          <key value="Q" direction="down"/>
+          <delay milliseconds="100"/>
+          <key value="Q" direction="up"/>
+          <delay milliseconds="100"/>
+          <key value="E" direction="down"/>
+          <delay milliseconds="100"/>
+          <key value="E" direction="up"/>
+        </multikey>
+      </macro>
+      <macro name="Left PEEK" color="4278246655" hidden="false" guid="{74D7F1DB-657E-4884-84B4-BED1143F96E4}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LBRACKET" direction="down"/>
+          <delay milliseconds="80"/>
+          <key value="LBRACKET" direction="up"/>
+          <delay milliseconds="25"/>
+          <key value="F7" direction="down"/>
+          <delay milliseconds="15"/>
+          <key value="F7" direction="up"/>
+          <key value="LBRACKET" direction="down"/>
+          <delay milliseconds="40"/>
+          <key value="LBRACKET" direction="up"/>
+        </multikey>
+      </macro>
+      <macro name="Right PEEK" color="4278246655" hidden="false" guid="{C52D9FEC-CDD6-44E0-ACF5-6DB21C00A6CA}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="RBRACKET" direction="down"/>
+          <delay milliseconds="80"/>
+          <key value="RBRACKET" direction="up"/>
+          <delay milliseconds="25"/>
+          <key value="F7" direction="down"/>
+          <delay milliseconds="15"/>
+          <key value="F7" direction="up"/>
+          <key value="RBRACKET" direction="down"/>
+          <delay milliseconds="40"/>
+          <key value="RBRACKET" direction="up"/>
+        </multikey>
+      </macro>
+      <macro name="Scroll Lock" color="4278246655" hidden="false" guid="{839B4794-2AA0-483B-AAB0-A765D66F08DA}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SCROLLLOCK"/>
+        </keystroke>
+      </macro>
+      <macro repeatmode="pressed" name="速点" color="4278246655" hidden="false" guid="{D25FC50F-2A38-401F-BCBD-A1F8ABDBA34E}" repeatdelay="15">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="F7" direction="down"/>
+          <delay milliseconds="15"/>
+          <key value="F7" direction="up"/>
+          <mousemove relative="true" x="0" y="10"/>
+          <delay milliseconds="50"/>
+          <mousemove relative="true" x="0" y="-8"/>
+          <delay milliseconds="50"/>
+        </multikey>
+      </macro>
+      <macro repeatmode="pressed" name="顿" color="4278246655" hidden="false" guid="{244855E7-ADA7-44D1-8257-95021762927A}" repeatdelay="5">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousebutton direction="down" button="right"/>
+          <delay milliseconds="200"/>
+          <mousebutton direction="down" button="left"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="50"/>
+          <mousemove relative="true" x="0" y="35"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="down" button="left"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="50"/>
+          <mousemove relative="true" x="0" y="35"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="down" button="left"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="right"/>
+        </multikey>
+      </macro>
+      <macro name="DPI 周期循环" color="4278246655" hidden="false" guid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpicycling"/>
+        </mousefunction>
+      </macro>
+      <macro name="F1" color="4278246655" hidden="true" guid="{E300EACA-3FD6-4933-9C4F-3974B5047C39}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F2" color="4278246655" hidden="true" guid="{9713EBF7-7323-4371-87B7-D9B22EAE9829}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F3" color="4278246655" hidden="true" guid="{CF8F7B5D-2BDC-43B0-BB39-4DC9A2D48763}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F4" color="4278246655" hidden="true" guid="{BFFA2301-C429-47FE-834A-9F5A398B3142}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F5" color="4278246655" hidden="true" guid="{198FA60F-B5E9-48AD-A8F0-C88910A0F257}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F6" color="4278246655" hidden="true" guid="{39A3179F-8287-40EC-B385-1E882AC5648C}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F7" color="4278246655" hidden="true" guid="{3C017275-694C-4662-B6A2-8F0378E12F11}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F8" color="4278246655" hidden="true" guid="{33A4C43B-EE91-4734-BB9B-F5C1BA61CB11}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F9" color="4278246655" hidden="true" guid="{5EC7F8E7-9217-4693-9C3E-4A7682D2546E}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F10" color="4278246655" hidden="true" guid="{F4738850-00A1-4EE4-830D-D9D1B3C37E79}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F11" color="4278246655" hidden="true" guid="{99517206-5346-4960-A789-1771A0178F2E}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="F12" color="4278246655" hidden="true" guid="{F8DB8C56-E190-444B-B104-56DC5C70CF9B}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro name="循环效果 (G633/G933)" color="4278246655" hidden="true" guid="{0502EB86-B72B-4DA0-8CB2-05B8E9C2B147}">
+        <function xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Function">
+          <do task="cycle_effect"/>
+        </function>
+      </macro>
+      <macro name="循环效果 (G633/G933)" color="4278246655" hidden="false" guid="{D2392D1B-BBEA-4417-9AD8-9CEE2E7597DD}">
+        <function xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Function">
+          <do task="cycle_effect"/>
+        </function>
+      </macro>
+      <macro name="环绕声开/关" color="4278246655" hidden="true" guid="{C79CF5B5-D139-4900-8B53-31FB11DBA8A3}">
+        <audio xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Audio">
+          <task command="surroundsoundtoggle"/>
+        </audio>
+      </macro>
+      <macro name="环绕声开/关" color="4278246655" hidden="false" guid="{8D1F1E78-D3A0-4FE0-9F5F-DAF1D5514EA8}">
+        <audio xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Audio">
+          <task command="surroundsoundtoggle"/>
+        </audio>
+      </macro>
+      <macro name="" color="4278246655" hidden="true" guid="{68A526B0-D5E9-4F60-A52C-E058A58AF6B3}">
+        <audio xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Audio">
+          <task command=""/>
+        </audio>
+      </macro>
+      <macro name="" color="4278246655" hidden="false" guid="{43D1BA53-DB98-421B-AF58-EF06980E2783}">
+        <audio xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Audio">
+          <task command=""/>
+        </audio>
+      </macro>
+      <macro name="Ctrl + V" color="4278246655" hidden="false" guid="{AA1921B6-A8E1-46C5-A4DF-5314D2604AAB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="Ctrl + C" color="4278246655" hidden="false" guid="{3B091177-9AAB-4EF0-A2A1-44D8B771FB45}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="向右滚动" color="4278246655" hidden="false" guid="{1CD98AF6-FED7-4E28-B91E-039F2E8BA0A7}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro name="向左滚动" color="4278246655" hidden="false" guid="{2DF91DB2-6579-4A20-B006-E74B8E08235F}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Function.Keyboard">
+      <assignment shiftstate="1" contextid="G1" original="false" macroguid="{E300EACA-3FD6-4933-9C4F-3974B5047C39}" backup="false"/>
+      <assignment shiftstate="4" contextid="G1" original="false" macroguid="{E300EACA-3FD6-4933-9C4F-3974B5047C39}" backup="false"/>
+      <assignment shiftstate="1" contextid="G2" original="false" macroguid="{9713EBF7-7323-4371-87B7-D9B22EAE9829}" backup="false"/>
+      <assignment shiftstate="4" contextid="G2" original="false" macroguid="{9713EBF7-7323-4371-87B7-D9B22EAE9829}" backup="false"/>
+      <assignment shiftstate="1" contextid="G3" original="false" macroguid="{CF8F7B5D-2BDC-43B0-BB39-4DC9A2D48763}" backup="false"/>
+      <assignment shiftstate="4" contextid="G3" original="false" macroguid="{CF8F7B5D-2BDC-43B0-BB39-4DC9A2D48763}" backup="false"/>
+      <assignment shiftstate="1" contextid="G4" original="false" macroguid="{BFFA2301-C429-47FE-834A-9F5A398B3142}" backup="false"/>
+      <assignment shiftstate="4" contextid="G4" original="false" macroguid="{BFFA2301-C429-47FE-834A-9F5A398B3142}" backup="false"/>
+      <assignment shiftstate="1" contextid="G5" original="false" macroguid="{198FA60F-B5E9-48AD-A8F0-C88910A0F257}" backup="false"/>
+      <assignment shiftstate="4" contextid="G5" original="false" macroguid="{198FA60F-B5E9-48AD-A8F0-C88910A0F257}" backup="false"/>
+      <assignment shiftstate="1" contextid="G6" original="false" macroguid="{39A3179F-8287-40EC-B385-1E882AC5648C}" backup="false"/>
+      <assignment shiftstate="4" contextid="G6" original="false" macroguid="{39A3179F-8287-40EC-B385-1E882AC5648C}" backup="false"/>
+      <assignment shiftstate="1" contextid="G7" original="false" macroguid="{3C017275-694C-4662-B6A2-8F0378E12F11}" backup="false"/>
+      <assignment shiftstate="4" contextid="G7" original="false" macroguid="{3C017275-694C-4662-B6A2-8F0378E12F11}" backup="false"/>
+      <assignment shiftstate="1" contextid="G8" original="false" macroguid="{33A4C43B-EE91-4734-BB9B-F5C1BA61CB11}" backup="false"/>
+      <assignment shiftstate="4" contextid="G8" original="false" macroguid="{33A4C43B-EE91-4734-BB9B-F5C1BA61CB11}" backup="false"/>
+      <assignment shiftstate="1" contextid="G9" original="false" macroguid="{5EC7F8E7-9217-4693-9C3E-4A7682D2546E}" backup="false"/>
+      <assignment shiftstate="4" contextid="G9" original="false" macroguid="{5EC7F8E7-9217-4693-9C3E-4A7682D2546E}" backup="false"/>
+      <assignment shiftstate="1" contextid="G10" original="false" macroguid="{F4738850-00A1-4EE4-830D-D9D1B3C37E79}" backup="false"/>
+      <assignment shiftstate="4" contextid="G10" original="false" macroguid="{F4738850-00A1-4EE4-830D-D9D1B3C37E79}" backup="false"/>
+      <assignment shiftstate="1" contextid="G11" original="false" macroguid="{99517206-5346-4960-A789-1771A0178F2E}" backup="false"/>
+      <assignment shiftstate="4" contextid="G11" original="false" macroguid="{99517206-5346-4960-A789-1771A0178F2E}" backup="false"/>
+      <assignment shiftstate="1" contextid="G12" original="false" macroguid="{F8DB8C56-E190-444B-B104-56DC5C70CF9B}" backup="false"/>
+      <assignment shiftstate="4" contextid="G12" original="false" macroguid="{F8DB8C56-E190-444B-B104-56DC5C70CF9B}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.302">
+      <assignment shiftstate="1" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button4" original="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button5" original="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button6" original="false" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button4" original="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button5" original="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button6" original="false" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.C08B">
+      <assignment shiftstate="1" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button6" original="false" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button4" original="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button5" original="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button6" original="false" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button7" original="false" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button8" original="false" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button10" original="false" macroguid="{1CD98AF6-FED7-4E28-B91E-039F2E8BA0A7}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button11" original="false" macroguid="{2DF91DB2-6579-4A20-B006-E74B8E08235F}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G402">
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button4" original="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button5" original="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button6" original="false" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button7" original="false" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button8" original="false" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G403">
+      <assignment shiftstate="1" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button3" original="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button4" original="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button5" original="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button6" original="false" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G502RGB">
+      <assignment shiftstate="2" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button3" original="false" macroguid="{1D44132E-6252-43EC-8A7F-A8AF575AA3E8}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button4" original="false" macroguid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button4" original="false" macroguid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button4" original="false" macroguid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button4" original="false" macroguid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button4" original="false" macroguid="{4666E586-BA85-43C4-ABD4-B5FF6AE667F7}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button5" original="false" macroguid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button5" original="false" macroguid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button5" original="false" macroguid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button5" original="false" macroguid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button5" original="false" macroguid="{4A1AF485-5BB8-45BA-9BBD-CF5A74373D38}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button6" original="false" macroguid="{D3B3CC06-8310-48E2-B566-AF4EF0DB77E1}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button6" original="false" macroguid="{D3B3CC06-8310-48E2-B566-AF4EF0DB77E1}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button6" original="false" macroguid="{D3B3CC06-8310-48E2-B566-AF4EF0DB77E1}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button6" original="false" macroguid="{D3B3CC06-8310-48E2-B566-AF4EF0DB77E1}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button7" original="false" macroguid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button7" original="false" macroguid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button7" original="false" macroguid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button7" original="false" macroguid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button7" original="false" macroguid="{0F7857B4-80FA-4880-B83D-FA274B7C6B75}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button8" original="false" macroguid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button8" original="false" macroguid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button8" original="false" macroguid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button8" original="false" macroguid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button8" original="false" macroguid="{906F546D-F4A3-4AB1-9704-52F6E87F6A0C}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button11" original="false" macroguid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button11" original="false" macroguid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button11" original="false" macroguid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button11" original="false" macroguid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button11" original="false" macroguid="{91E195B2-2243-4FB1-8B4D-FDF26397EF6E}" backup="false"/>
+      <assignment shiftstate="2" contextid="Button10" original="false" macroguid="{CF86F924-7899-4149-830C-4E0438DC3D6B}" backup="false"/>
+      <assignment shiftstate="3" contextid="Button10" original="false" macroguid="{CF86F924-7899-4149-830C-4E0438DC3D6B}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button10" original="false" macroguid="{CF86F924-7899-4149-830C-4E0438DC3D6B}" backup="false"/>
+      <assignment shiftstate="5" contextid="Button10" original="false" macroguid="{CF86F924-7899-4149-830C-4E0438DC3D6B}" backup="false"/>
+      <assignment shiftstate="6" contextid="Button10" original="false" macroguid="{CF86F924-7899-4149-830C-4E0438DC3D6B}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button1" original="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.Pro.C085">
+      <assignment shiftstate="4" contextid="Button1" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button6" original="false" macroguid="{FB3C3247-0943-4A76-B55F-000DCC38858A}" backup="false"/>
+      <assignment shiftstate="1" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+      <assignment shiftstate="4" contextid="Button2" original="false" macroguid="{1E23356B-2C70-477E-8234-DB5EA42B1B9A}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Spectrum.Headset">
+      <assignment shiftstate="1" contextid="G1" original="false" macroguid="{D2392D1B-BBEA-4417-9AD8-9CEE2E7597DD}" backup="false"/>
+      <assignment shiftstate="1" contextid="G2" original="false" macroguid="{8D1F1E78-D3A0-4FE0-9F5F-DAF1D5514EA8}" backup="false"/>
+      <assignment shiftstate="1" contextid="G3" original="false" macroguid="{43D1BA53-DB98-421B-AF58-EF06980E2783}" backup="false"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.Pro.C085">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="0" shiftindex="0">
+            <dpi x="1000" y="1000" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="0"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G502RGB">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="0" shiftindex="0">
+            <dpi x="1000" y="1000" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G402">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="2" shiftindex="0">
+            <dpi x="400" y="400" enabled="1"/>
+            <dpi x="960" y="960" enabled="1"/>
+            <dpi x="1600" y="1600" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G302">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="2" shiftindex="0">
+            <dpi x="400" y="400" enabled="1"/>
+            <dpi x="800" y="800" enabled="1"/>
+            <dpi x="1600" y="1600" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="0"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G403">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="2" shiftindex="2">
+            <dpi x="800" y="800" enabled="1"/>
+            <dpi x="1050" y="1050" enabled="1"/>
+            <dpi x="1800" y="1800" enabled="1"/>
+            <dpi x="2400" y="2400" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.C08B">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="3" shiftindex="0">
+            <dpi x="2400" y="2400" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+            <dpi x="4000" y="4000" enabled="1"/>
+            <dpi x="4800" y="4800" enabled="1"/>
+            <dpi x="6000" y="6000" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G502RGB">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G402">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G302">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Keyboard.G910">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <script>--罗技鼠标键位设置 
+--卡拉彼丘特调--
+LDNumber = 0  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
+LD0Number = 0  --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：黄·白墨
+MPXNumber= 5 --适合角色：黄· 星绘
+UMP45Number=0 --适合角色：红· 明
+JQNumber=0 --适合角色：红· 拉薇
+ZhuanzhuNumber= 0 --适合角色：蓝· 伊薇特
+AK47Number=4 --适合角色：蓝· 米雪儿李
+ELAumber=8 --适合角色：黄· 奥黛丽
+
+
+--R6旧模板--
+R301 =0 ----AK12 2.5  -F2垂直消炎 --SMG12垂直消炎 -2.5转角消炎
+M600 =0----36C 2.5
+R99 =0----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --门P10转角补偿 --热切
+VK47 = 0 ---f2 2.5 --FINKA垂直消炎
+RE45 = 0----mp5 2.5
+ZHZCF = 0 ----火花2.5 --AR33垂直消炎
+HawokeNumber = 0---m4 2.5 --MF552转角补偿
+SMGNumber =0 --SMG11 --SMG11垂直消炎
+C416Number = 0--416C
+TYNumber =0--大锤L85A22.5
+LXNumber=0--刘醒
+XI556Number=0--热切
+AUGNumber= 0 -- AUG 2.5
+ALDNumber = 0 --ALD556 2.5斜眼机枪
+WMMNumber = 0--m762 --EVO转角消炎
+WMWumber = 0--K1A
+Q552umber=0 --QI552  --热切垂直消炎
+MK17Number= 0--MK172.5
+SPSMGNumber= 0--电盾副武器
+T95Number= 0--T95
+TC12Number=0 --TC12喷子
+G8Number=0--G8
+PZNumber=0 --AUG2.0一倍
+FMGNumber=0--FMG
+MP5SDNumber=0--mp5sd
+V9X19Number=0--9X19
+arx2000Number=0
+V308Number=0
+T5SMGNumber=0
+SC300Number=0 --治疗仪垂直补偿
+VKTNumber=0
+MX4Number=0 
+DP27Number=0
+P10Number=0
+AR33Number=0 --刘星T5垂直消炎 -IQ552垂直消炎
+R4CNumber=0 --K1A垂直补偿 --R4C垂直消炎 --磁AUG垂直消炎
+UZKNumber=0 --夹子1.5垂直消炎 --电AUG垂直消炎
+OneClose = 9---关闭压枪号
+Rightclicknextfire = true--长按右键 才压枪 true=开启 false =关闭！（习惯长按右键才开镜）
+-----------------------------------------------------------------------------------------------
+-- 罗技键盘键位自定义：有G键的，G1就输入1 G2就是2，没有G键的，F1就是1  F2就是2
+-- 别乱改，你首先得有个罗技键盘，还得支持宏才行，其他键盘别改！
+MK17_Gkey=0
+QI552_Gkey=0
+ALD_Gkey=0--斜眼机枪
+AUG_Gkey=0
+L85A_Gkey=0
+M4_Gkey=0
+HW_Gkey=0--火花
+LD_Gkey=0--连点
+MP7_Gkey=0
+AK12_Gkey = 0------AK12 2.5
+C8_Gkey = 0------C8 2.5
+F2_Gkey = 0----F2.5
+MP5_Gkey = 0----MP5
+M60_Gkey = 0-----36C 2.5
+C416_Gkey=0 --416C
+SMG_Gkey=0 --smg11
+XI_Gkey = 0 --xi556
+M762_Gkey =0--M762
+K1A_Gkey = 0--K1A
+ELA_Gkey = 0--ELA
+T95_Gkey = 0
+MP5SD_Gkey=0
+V9X19_Gkey=0
+UMP45_Gkey=0
+G8_Gkey=0
+TC12_Gkey=0
+LX_Gkey=0--刘醒
+JQ_Gkey=0--脚气
+MP7_Gkey=0
+AK47_Gkey=0
+T5SMG_Gkey=0
+SC300_Gkey=0
+MX4_Gkey=0
+VKT_Gkey=0
+P10_Gkey=0
+DP27_Gkey=0
+AR33_Gkey=0
+R4C_Gkey=0
+UZK_Gkey=0
+OneClose_Gkey = 0---关闭压枪
+--第二组压枪数据，建议键位少的鼠标使用
+--使用方法，同时按功能键+鼠标键位即可切换第二组压枪数据
+--功能键可以改键，仅限 lalt 和 lshift 两个键位可以修改，不建议改lshift，因跑动过程中无法切换数据！
+--第二组开关控制(不想使用可以把l改成r)
+Second="lctrl"
+HWkey=0--火花2.5
+AK12key=6--AK12 2.5
+C36Ckey=0--36C2.5
+MP7key=0--MP7
+MP5key=0--MP5 2.5
+DCkey=0--大锤2.5
+C416Ckey=0--C416
+JQkey=0--脚气2.5
+LXkey=0--刘醒SMG
+F2key=4--F2
+C8key=5 --C8
+MPXkey=0--MPX
+ALDkey=0--斜眼机枪
+XIkey=0--xi556
+T95key=0--T95
+M762key =0 --M762
+K1Akey =0 --K1A
+TC12key =0 --TC12喷子
+AUG20key =0 --AUG2.0
+AK47key =0 --AK47
+G8key=0 --大G8
+UMP45key=0 --UMP45
+FMGkey = 0 --fmg
+MP5SDkey = 0 
+V9X19key = 0 
+arx2000key=0
+V308key=0
+T5SMGkey=0
+SC300Gkey=0
+VKTkey= 0
+MX4key=0
+DP27key=0
+P10key=0
+AR33key=0
+R4Ckey=0
+
+UZKkey=0
+
+
+
+--默认压枪系数 如果有需要调整自己改 垂直 就是垂直系数
+LDXS=1--连点压枪系数
+LDSD=10--连点速度
+----
+DCXS=1
+DCYS=5--大锤步枪
+
+
+
+AKXS=1--AK水平
+AKYS=13.6 --AK垂直
+----
+M6XS=9.7----36C垂直
+M6XXS=1--水平
+----
+C4XS=-1
+C4YS=8--416c
+
+----
+F2XS=-1--水平
+F2YS=17.1--F2垂直
+--
+
+MP5XS=-1
+MP5YS=9--MP5垂直
+--
+
+--
+M7XS=0.1
+M7YS=2--MP7垂直系数
+
+
+--
+HHXS=1
+HHYS=12.8--火花垂直
+--
+JQYS=2--脚气
+JQXS=0.5
+--
+
+LXYS=7--刘醒
+LXXS=0
+--
+SMXS=1
+SMYS=10--SMG11
+--
+MK17XS=1
+MK17YS=7 --mk17 垂直
+--
+AUGXS=-1
+AUGYS=11--aug 垂直
+--
+MPXXS=0.1
+MPXYS=3--mpx垂直 --卡丘·黄·星绘
+--
+ALDXS=1
+ALDYS=7.6--斜眼机枪垂直
+--
+XIYS=9 --xi556
+XIXS=-1 
+--
+WMWYS=5--K1A垂直
+WMWXS=-1
+--
+WMMYS=17--m762垂直
+WMMXS=3
+--
+ELAXS=1
+ELAYS=3
+--
+Q552XS=1
+Q552YS=11--552
+
+T95XS=0
+T95YS=6--T95
+--
+SPSMGXS=0
+SPSMGYS=6--电盾副武器
+--
+AK47XS=0.5--ak47
+AK47YS=1
+
+
+
+V9X19XS=0
+V9X19YS=1--9X19
+
+MP5SDXS=1
+MP5SDYS=5--MP5SD
+
+FMGXS=-1
+FMGYS=3--fmg
+
+PZXS=0
+PZYS=3
+
+
+V308XS=0
+V308YS=4
+
+arx2000XS=1
+arx2000YS=3
+
+UMP45XS=0
+UMP45YS=2
+
+M4XS=-1
+M4YS=6--M4垂直
+
+G8XS=-1
+G8YS=10
+
+C8XS=1
+C8YS=14--C8垂直
+
+TC12XS=0
+TC12YS=35
+
+
+SC300XS=1
+SC300YS=5
+
+T5SMGXS=1
+T5SMGYS=3
+
+VKTXS=1
+VKTYS=4
+
+MX4XS=-1
+MX4YS=7
+
+DP27XS=-2
+DP27YS=3
+
+P10XS=0
+P10YS=3
+
+AR33XS=1
+AR33YS=5
+
+R4CXS=1
+R4CYS=6
+
+
+UZKXS=1
+UZKYS=4
+YCYQ = 25
+
+
+
+--===========
+
+ZBQ=true
+
+QBZ=true
+
+-----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+ShieldCode = "Lalt";------暂停件按键，可以改为 "shift"或"ctrl"
+
+AkNumber = R301   ----R-301卡宾枪按键号
+M16Number = M600----M600喷火轻机枪
+M4Number = R99----R-99冲锋枪按键号
+ScarNumber = VK47----VK-47平行步枪按键号
+Ump9Number = RE45----RE-45自动手枪按键号
+
+UziNumber = 8----按键号
+
+Onepackage=  0 ---急速拾取地面物品按键号
+kp=false--2560*1080 3440*1440 (宽屏用户) 改为true 其它分辨率用户不用修改false
+FourCode = "capslock";--不要修改
+TuoLaYiDong = 30
+FireCode = "F8";----开火键按键如果F8游戏里开不了枪和某些软件热键有冲突，可以改为"F7"或"F9"，对应游戏里开火也改为自己设置按键
+AllCode = "numlock"------满配件按键
+ click = false
+clickk = false
+ recoil = false
+ recoill = false
+function OnEvent(event, arg)
+    OutputLogMessage("\n \narg = %d\n", arg)
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoil) then
+   Sleep(YCYQ)
+		click = true
+shotTime = 0 
+
+		SetMKeyState(3)
+  end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoill) then
+		
+clickk = true
+		SetMKeyState(3)
+  end
+ if (event == "MOUSE_BUTTON_RELEASED" and arg == 1) then
+		click = false
+clickk = false
+  end
+
+ 
+
+if (event == "M_RELEASED" and arg == 3 and clickk) then
+ABPu()
+end
+
+  
+
+variablesNSTT={"20","22","04","10","23","59","59"}
+variablesNST= {"20","99","08","25","23","59","59"}
+Starttheperformance=1000000000
+Pirate=table.concat({variablesNST[1],variablesNST[2],variablesNST[3],variablesNST[4],variablesNST[5],variablesNST
+[6],variablesNST[7]})
+PirateS=table.concat({variablesNSTT[1],variablesNSTT[2],variablesNSTT[3],variablesNSTT[4],variablesNSTT[5],variablesNSTT
+[6],variablesNSTT[7]})
+
+if tonumber(GetDate("%Y%m%d%H%M%S")) > tonumber(PirateS) then
+if tonumber(GetDate("%Y%m%d%H%M%S")) &lt; tonumber(Pirate) then
+if GetRunningTime() &lt; Starttheperformance then
+
+function BingXiFunc()
+	result = false
+     result = IsModifierPressed("rshift")
+	return result
+end
+
+function PingBiFunc()
+	result = false
+if Rightclicknextfire then
+	result = not IsMouseButtonPressed(3)
+
+end
+	return result
+end
+-------------------------------------------------------------------------------------------------
+----连点
+
+function ABPu()
+
+			PressMouseButton(1)
+ MoveMouseRelative(1,6*LDDXS)
+			Sleep(10)
+Sleep(10)
+Sleep(10)
+ MoveMouseRelative(1,4*LDDXS)
+Sleep(10)
+Sleep(5)
+ MoveMouseRelative(1,3*LDDXS)
+Sleep(10)
+Sleep(10)
+Sleep(5)
+			ReleaseMouseButton(1)
+		Sleep(10)
+Sleep(5)
+Sleep(10)
+Sleep(10)
+ MoveMouseRelative(0,1*LDDXS)
+			if clickk then
+			SetMKeyState(3)
+			end
+  end
+
+function ACPu()
+ MoveMouseRelative(0,2*LDXS)
+			PressMouseButton(1)
+			Sleep(LDSD)
+
+ MoveMouseRelative(0,1*LDXS)
+Sleep(LDSD)
+
+			ReleaseMouseButton(1)
+		Sleep(LDSD)
+
+
+
+
+			if click then
+			SetMKeyState(3)
+			end
+  end
+	
+function ADPu()
+ MoveMouseRelative(0,0*LDXS)
+			PressMouseButton(1)
+			Sleep(LDSD)
+
+ MoveMouseRelative(0,0*LDXS)
+Sleep(LDSD)
+
+			ReleaseMouseButton(1)
+		Sleep(LDSD)
+
+
+
+
+			if click then
+			SetMKeyState(3)
+			end
+  end
+-------------------------------------------------------------------------------------------------
+
+function BoomJQ()----脚气
+
+					
+                                      if  shotTime>2350 then 
+   MoveMouseRelative(-1*JQXS, 1.7*JQYS)  
+ elseif shotTime > 1950 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)  
+   elseif shotTime > 1650 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)                                    MoveMouseRelative(0*JQXS, 0*JQYS)
+ elseif shotTime > 1350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                     elseif shotTime > 1150 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+elseif shotTime > 650 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                 elseif shotTime > 350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                      elseif shotTime &lt; 350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                          if click then
+			SetMKeyState(3)
+			end
+
+end
+
+function BoomLX()----刘醒
+
+                                      if  shotTime>2350 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS)
+ elseif shotTime > 1650 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS) 
+    elseif shotTime > 1350 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS)
+         elseif shotTime > 950 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS)
+                                 elseif shotTime > 750 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS) 
+
+                                 elseif shotTime > 450 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS) 
+
+                                 elseif shotTime > 350 then
+                                      MoveMouseRelative(-1*JQXS, 1*LXYS)
+                                      elseif shotTime &lt; 350 then
+                                      MoveMouseRelative(-1*LXXS, 1*LXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomAK()----AK47
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+elseif  shotTime>1950 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+
+ elseif  shotTime>1650 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*AKXS, 1.4*AKYS)
+                end
+             
+                                  Sleep(29)
+shotTime = shotTime+55 
+                          if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+function BoomM16()-------------36wC
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*M6XXS, 0.95*M6XS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*M6XXS, 1.2*M6XS)
+                end
+             
+                                  Sleep(25)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomTC12()-------tc12
+
+			
+                                    PressMouseButton(1)
+Sleep(40)
+                                      MoveMouseRelative(1*TC12XS, 1*TC12YS)
+Sleep(40)
+                                    
+                                      MoveMouseRelative(0*TC12XS, 1*TC12YS)
+Sleep(40)
+                                     ReleaseMouseButton(1)
+Sleep(40)
+                                      MoveMouseRelative(-1*TC12XS, 1*TC12YS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function BoomM4()-------C8
+
+                                    
+                                      MoveMouseRelative(0*C8XS, 1*C8YS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(-1*C8XS, 1*C8YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*C8XS, 1*C8YS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+
+function BoomWMM()---M762
+
+                                    
+                                      MoveMouseRelative(1*WMMXS, 1*WMMYS)
+Sleep(31)
+                                    
+                                      MoveMouseRelative(1*WMMXS, 1*WMMYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(2*WMMXS, 1*WMMYS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function BoomWMW()---K1A
+
+                                    
+                                      MoveMouseRelative(1*WMWXS, 1*WMWYS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(1*WMWXS, 1*WMWYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*WMWXS, 1*WMWYS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function Boom416C()---416C
+
+
+
+if  shotTime&lt;60  then 
+MoveMouseRelative(0*C4XS, 2*C4YS)
+end
+if shotTime>60 and shotTime &lt;3050 then 
+
+                                         MoveMouseRelative(1*C4XS, 1*C4YS)
+Sleep(28)
+                                    
+                                      MoveMouseRelative(1*C4XS, 1*C4YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*C4XS, 1*C4YS)
+           Sleep(30)
+             
+elseif  shotTime >3855 then
+ MoveMouseRelative(0*C4XS, 0*C4YS)
+end
+           shotTime = shotTime+55
+                             if click then
+			SetMKeyState(3)
+			end
+end
+      
+     
+
+
+
+
+function BoomG8()---G8
+
+                                         MoveMouseRelative(1*G8XS, 1*G8YS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(0*G8XS, 1*G8YS)
+Sleep(22)
+                                     
+                                      MoveMouseRelative(1*G8XS, 1*G8YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+function BoomSCAR()-----------F2
+
+                                      MoveMouseRelative(1*F2XS, 1*F2YS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(1*F2XS, 1*F2YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*F2XS, 1*F2YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+function BoomUMP9()--------------MP5
+
+                                     
+                                      MoveMouseRelative(2*MP5XS, 1*MP5YS)
+Sleep(30)
+                                    
+                                      MoveMouseRelative(1*MP5XS, 1*MP5YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*MP5XS, 1*MP5YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+function BoomQ552()--------------Q552
+
+                                     
+                                      MoveMouseRelative(-1*Q552XS, 1*Q552YS)
+Sleep(30)
+                                    
+                                      MoveMouseRelative(0*Q552XS, 1*Q552YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*Q552XS, 1*Q552YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomELA()--------------ela
+
+                                     
+                                      MoveMouseRelative(1*ELAXS, 1*ELAYS)
+Sleep(28)
+                                    
+                                      MoveMouseRelative(-1*ELAXS, 1*ELAYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*ELAXS,1*ELAYS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+function BoomHWK()-------------M416
+
+                                               MoveMouseRelative(1*M4XS, 1*M4YS)
+Sleep(19)
+                                    
+                                      MoveMouseRelative(0*M4XS, 1*M4YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*M4XS, 1*M4YS)
+
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomZZ()-------------MP7
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                end
+             
+                                  Sleep(30)
+shotTime = shotTime+55 
+if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+
+
+
+
+function BoomUZI()----火花
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*HHXS, 1.05*HHYS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*HHXS, 1.4*HHYS)
+                end
+             
+                                  Sleep(30)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomSMG()----SMG11
+                                  
+                                      MoveMouseRelative(1*SMXS, 1*SMYS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(0*SMXS, 1*SMYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*SMXS, 1*SMYS)
+
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomAUG()---AUG
+
+                                      if  shotTime>3350 then 
+                                      MoveMouseRelative(0, 1.01*AUGYS)
+ elseif shotTime>2850 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+ elseif shotTime>1850 then
+                                      MoveMouseRelative(0*AUGXS, 1.05*AUGYS)
+ elseif shotTime>1550 then
+                                      MoveMouseRelative(-1*AUGXS, 1.02*AUGYS)
+ elseif shotTime>1050 then
+                                      MoveMouseRelative(0*AUGXS, 1.02*AUGYS)
+   elseif shotTime>850 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+                                      
+elseif shotTime>350 then
+                                      MoveMouseRelative(0*AUGXS, 1.02*AUGYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*AUGXS, 1.01*AUGYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomALD()---ALD556
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*ALDXS, 1.1*ALDYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(1*ALDXS, 1.1*ALDYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*ALDXS, 1.1*ALDYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*ALDXS, 1.1*ALDYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*ALDXS, 1.08*ALDYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*ALDXS, 1.1*ALDYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*ALDXS, 1*ALDYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomMK17()---MK17
+
+                                     MoveMouseRelative(1*MK17XS, 1*MK17YS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(0*MK17XS, 1*MK17YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*MK17XS, 1*MK17YS)
+
+
+             
+                               
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomMPX()---MPX
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*MPXXS, 1.01*MPXYS)
+elseif shotTime>1950 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1650 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*MPXXS, 1*MPXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomMPX()---MPX
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*MPXXS, 1.01*MPXYS)
+elseif shotTime>1950 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1650 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*MPXXS, 1*MPXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomXI556()---XI556
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*XIXS, 1.02*XIYS)
+ elseif shotTime>1500 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>1200 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>900 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>600 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                     elseif shotTime>300 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                  
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                      elseif shotTime &lt; 150 then
+                                      MoveMouseRelative(-1*XIXS, 1.2*XIYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+function BoomSPSMG()
+if  shotTime&lt;980 then 
+                                  
+                                      MoveMouseRelative(1*SPSMGXS, 1*SPSMGYS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(0*SPSMGXS, 1*SPSMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*SPSMGXS, 1*SPSMGYS)
+end
+if  shotTime>980 and  shotTime&lt;1375 then 
+                                  
+                                      MoveMouseRelative(-1, 1*SPSMGYS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(-1, 1*SPSMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-0, 1*SPSMGYS)
+
+ elseif  shotTime >1375 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+
+
+end
+shotTime = shotTime+57
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomT95()
+if  shotTime&lt;4350 then 
+                                  
+                                      MoveMouseRelative(1*T95XS, 1*T95YS)
+Sleep(38)
+                                    
+                                      MoveMouseRelative(2*T95XS, 1*T95YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*T95XS, 1*T95YS)
+
+shotTime = shotTime+55
+end
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomTY()--大锤
+                                  
+                                      MoveMouseRelative(1*DCXS, 1*DCYS)
+Sleep(41)
+                                    
+                                      MoveMouseRelative(2*DCXS, 1*DCYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*DCXS, 1*DCYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomAK47()--AK47
+                                  
+                                      MoveMouseRelative(0*AK47XS, 1*AK47YS)
+Sleep(34)
+                                    
+                                      MoveMouseRelative(-1*AK47XS, 1*AK47YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*AK47XS, 1*AK47YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+end
+ 
+
+function BoomUMP45()--UMP45
+                                  
+                                      MoveMouseRelative(0*UMP45XS, 1*UMP45YS)
+Sleep(25)
+                                    
+                                      MoveMouseRelative(-1*UMP45XS, 1*UMP45YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*UMP45XS, 1*UMP45YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomV9X19()
+                                  
+                                      MoveMouseRelative(0*V9X19XS, 1*V9X19YS)
+Sleep(15)
+                                    
+                                      MoveMouseRelative(-1*V9X19XS, 1*V9X19YS)
+Sleep(15)
+                                     
+                                      MoveMouseRelative(0*V9X19XS, 1*V9X19YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomT5SMG()
+                                  
+                                      MoveMouseRelative(0*T5SMGXS, 1*T5SMGYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*T5SMGXS, 1*T5SMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*T5SMGXS, 1*T5SMGYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomSC300()
+if  shotTime&lt;60  then 
+MoveMouseRelative(0*SC300XS, 2*SC300YS)
+end
+
+if shotTime>60 and shotTime &lt;3050 then 
+                                  
+                                      MoveMouseRelative(0*SC300XS, 1*SC300YS)
+Sleep(18)
+                                    
+                                      MoveMouseRelative(-1*SC300XS, 1*SC300YS)
+Sleep(15)
+                                     
+                                      MoveMouseRelative(0*SC300XS, 1*SC300YS)
+
+
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function Boomarx2000()
+                                  
+                                      MoveMouseRelative(0*arx2000XS, 1*arx2000YS)
+Sleep(11)
+                                    
+                                      MoveMouseRelative(-1*arx2000XS, 1*arx2000YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*arx2000XS, 1*arx2000YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomV308()
+                                  
+                                      MoveMouseRelative(0*V308XS, 1*V308YS)
+Sleep(13)
+                                    
+                                      MoveMouseRelative(-1*V308XS, 1*V308YS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*V308XS, 1*V308YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomMP5SD()--UMP45
+                                  
+                                      MoveMouseRelative(0*MP5SDXS, 1*MP5SDYS)
+Sleep(21)
+                                    
+                                      MoveMouseRelative(-1*MP5SDXS, 1*MP5SDYS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*MP5SDXS, 1*MP5SDYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomVKT()
+                                  
+                                      MoveMouseRelative(0*VKTXS, 1*VKTYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*VKTXS, 1*VKTYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*VKTXS, 1*VKTYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomMX4()
+                                  
+                                      MoveMouseRelative(0*MX4XS, 1*MX4YS)
+Sleep(24)
+                                    
+                                      MoveMouseRelative(-1*MX4XS, 1*MX4YS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*MX4XS, 1*MX4YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+
+function BoomDP27()
+                                  
+                                      MoveMouseRelative(0*DP27XS, 1*DP27YS)
+Sleep(31)
+                                    
+                                      MoveMouseRelative(-1*DP27XS, 1*DP27YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*DP27XS, 1*DP27YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomP10()
+
+                                  
+                                      MoveMouseRelative(0*P10XS, 1*P10YS)
+Sleep(20)
+                                    
+                                      MoveMouseRelative(-1*P10XS, 1*P10YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*P10XS, 1*P10YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomAR33()
+if  shotTime&lt;60  then 
+MoveMouseRelative(0*AR33XS, 3*AR33YS)
+end
+if shotTime>60 and shotTime &lt;3050 then 
+                                  
+                                      MoveMouseRelative(-1*AR33XS, 1*AR33YS)
+Sleep(21)
+                                    
+                                      MoveMouseRelative(0*AR33XS, 1*AR33YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*AR33XS, 1*AR33YS)
+
+                           
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+  if click then
+
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+
+function BoomR4C()
+if  shotTime&lt;60  then 
+MoveMouseRelative(0*R4CXS, 2*R4CYS)
+end
+if shotTime>60 and shotTime &lt;3050 then 
+                                  
+                                      MoveMouseRelative(-1*AR33XS, 1*R4CYS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(0*R4CXS, 1*R4CYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*R4CXS, 1*R4CYS)
+
+                           
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+  if click then
+
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomUZK()--UZK
+                                  
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+Sleep(26)
+                                    
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomFMG()--UMP45
+                                  
+                                      MoveMouseRelative(0*FMGXS, 1*FMGYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*FMGXS, 1*FMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*FMGXS, 1*FMGYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomPZ()--喷子
+                                  
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+Sleep(27)
+
+                                    
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+Sleep(20)
+
+                                     
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    if (event == "PROFILE_ACTIVATED") then
+        EnablePrimaryMouseButtonEvents(true)
+    elseif event == "PROFILE_DEACTIVATED" then
+	   
+    end
+
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == AkNumber) then 
+recoil = true
+ recoill = false
+			current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == M16Number) then 
+				current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+recoill = false
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == Ump9Number) then 
+				current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+recoill = false
+		
+    end
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == ZhuanzhuNumber) then 
+				current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+recoill = false
+		
+    end
+ 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C416Number) then 
+			current_weapon = "noo6"
+OutputLogMessage("c416 on\n")
+recoil = true
+recoill = false
+		
+    end	
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == TYNumber) then 
+				current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+recoill = false
+		
+    end	
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == HawokeNumber) then 
+			current_weapon = "noo8"
+OutputLogMessage("m4 on\n")
+recoil = true
+
+		
+    end	
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == M4Number) then 
+			current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+
+		
+    end
+  if (event == "MOUSE_BUTTON_PRESSED" and arg == JQNumber) then 
+			current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+recoill = false
+		
+    end
+
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == ZHZCF) then 
+				current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+recoill = false
+		
+    end
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == LXNumber) then 
+				current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+recoill = false
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == SMGNumber) then 
+recoil = true
+current_weapon = "noo5"
+
+OutputLogMessage("smg on\n")
+    end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AUGNumber) then 
+recoil = true
+current_weapon = "noo15"
+OutputLogMessage("AUG on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MPXNumber) then 
+recoil = true
+current_weapon = "noo17"
+OutputLogMessage("MPX on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MK17Number) then 
+recoil = true
+current_weapon = "noo18"
+OutputLogMessage("MK17 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ALDNumber) then 
+recoil = true
+current_weapon = "noo16"
+
+OutputLogMessage("ALD556 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == XI556Number) then 
+recoil = true
+current_weapon = "noo19"
+
+OutputLogMessage("XI556 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == WMMNumber) then 
+recoil = true
+current_weapon = "noo20"
+
+OutputLogMessage("M762 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == WMWumber) then 
+recoil = true
+current_weapon = "noo21"
+
+OutputLogMessage("K1A on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == Q552umber) then 
+recoil = true
+current_weapon = "noo22"
+
+OutputLogMessage("552 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ELAumber) then 
+recoil = true
+current_weapon = "noo23"
+
+OutputLogMessage("ELA on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == SPSMGNumber) then 
+			current_weapon = "noo24"
+OutputLogMessage("SPSMG on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == T95Number) then 
+			current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == TC12Number) then 
+			current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == G8Number) then 
+			current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AK47Number) then 
+			current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == PZNumber) then 
+			current_weapon = "noo29"
+OutputLogMessage("AUG2.0 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UMP45Number) then 
+			current_weapon = "noo30"
+OutputLogMessage("ump45 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == FMGNumber) then 
+			current_weapon = "noo31"
+OutputLogMessage("FMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP5SDNumber) then 
+			current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == V9X19Number) then 
+			current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == arx2000Number) then 
+			current_weapon = "noo34"
+OutputLogMessage("arx2000 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == V308Number) then 
+			current_weapon = "noo35"
+OutputLogMessage("V308 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == T5SMGNumber) then 
+			current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == SC300Number) then 
+			current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == VKTNumber) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MX4Number) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DP27Number) then 
+			current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == P10Number) then 
+			current_weapon = "noo41"
+OutputLogMessage("P10 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AR33Number) then 
+			current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == R4CNumber) then 
+						current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end
+
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UZKNumber) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == LDNumber) then 
+				current_weapon = "noo11"
+OutputLogMessage("LD on\n")
+recoil = true
+recoill = false
+		
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LDDNumber) then 
+				
+
+recoill = true
+recoil = false
+		
+    end
+
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
+				current_weapon = "noo110"
+recoil = true
+recoill = false
+OutputLogMessage("LD0 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LDD0Number) then 
+				
+
+recoill = true
+recoil = false
+		
+    end
+
+
+
+
+	
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == ScarNumber) then 
+				current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+ recoil = true
+recoill = false
+		
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C8key and IsModifierPressed(Second)) then
+	current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == F2key and IsModifierPressed(Second)) then
+		current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LXkey and IsModifierPressed(Second)) then
+					current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == JQkey and IsModifierPressed(Second)) then
+		current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C416Ckey and IsModifierPressed(Second)) then
+		current_weapon = "noo6"
+OutputLogMessage("c416 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ALDkey and IsModifierPressed(Second)) then
+	current_weapon = "noo16"
+OutputLogMessage("ALD556 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MPXkey and IsModifierPressed(Second)) then
+	current_weapon = "noo17"
+OutputLogMessage("MPX on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DCkey and IsModifierPressed(Second)) then
+			current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP5key and IsModifierPressed(Second)) then
+			current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP7key and IsModifierPressed(Second)) then
+					current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C36Ckey and IsModifierPressed(Second)) then
+		current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AK12key and IsModifierPressed(Second)) then
+		current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == HWkey and IsModifierPressed(Second)) then
+		current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == XIkey and IsModifierPressed(Second)) then
+		current_weapon = "noo19"
+OutputLogMessage("XI556 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == M762key and IsModifierPressed(Second)) then
+recoil = true
+current_weapon = "noo20"
+
+OutputLogMessage("M762 on\n")
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == K1Akey and IsModifierPressed(Second)) then
+		current_weapon = "noo21"
+OutputLogMessage("K1A on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==T95key and IsModifierPressed(Second)) then
+		current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+end 
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==TC12key and IsModifierPressed(Second)) then
+		current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==AUG20key and IsModifierPressed(Second)) then
+		current_weapon = "noo29"
+OutputLogMessage("AUG2.0 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==AK47key and IsModifierPressed(Second)) then
+		current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==G8key and IsModifierPressed(Second)) then
+		current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+end 
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==UMP45key and IsModifierPressed(Second)) then
+		current_weapon = "noo30"
+OutputLogMessage("UMP on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==FMGkey and IsModifierPressed(Second)) then
+		current_weapon = "noo31"
+OutputLogMessage("FMG on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==V9X19key and IsModifierPressed(Second)) then
+		current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==MP5SDkey and IsModifierPressed(Second)) then
+		current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==arx2000key and IsModifierPressed(Second)) then
+			current_weapon = "noo34"
+OutputLogMessage("arx2000 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==T5SMGkey and IsModifierPressed(Second)) then
+	current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==SC300key and IsModifierPressed(Second)) then
+current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==V308key and IsModifierPressed(Second)) then
+					current_weapon = "noo35"
+OutputLogMessage("V3082000 on\n")
+recoil = true
+recoill = false
+end
+
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == VKTkey and IsModifierPressed(Second)) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MX4key and IsModifierPressed(Second)) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DP27key and IsModifierPressed(Second)) then 
+		current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == P10key and IsModifierPressed(Second)) then 
+		current_weapon = "noo41"
+OutputLogMessage("p10 on\n")
+recoil = true
+recoill = false
+end
+	
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AR33key and IsModifierPressed(Second)) then 
+			current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end		
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == R4Ckey and IsModifierPressed(Second)) then 
+			current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UZKkey and IsModifierPressed(Second)) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == OneClose) then 
+	OutputLogMessage("GB on\n")
+current_weapon = "none"
+		
+ recoil = false
+recoill = false 
+    end	
+------------------------------------------------------
+
+
+if (event == "G_PRESSED" and arg == MK17_Gkey) then
+recoil = true
+current_weapon = "noo18"
+OutputLogMessage("MK17 on\n")
+    end
+
+if (event == "G_PRESSED" and arg == QI552_Gkey) then
+recoil = true
+current_weapon = "noo22"
+
+OutputLogMessage("552 on\n")
+    end
+
+if (event == "G_PRESSED" and arg == ALD_Gkey) then
+	current_weapon = "noo16"
+OutputLogMessage("ALD556 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == AUG_Gkey) then
+recoil = true
+current_weapon = "noo15"
+OutputLogMessage("AUG on\n")
+    end
+
+
+if (event == "G_PRESSED" and arg == L85A_Gkey) then
+				current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+recoill = false
+		
+    end	
+
+
+if (event == "G_PRESSED" and arg == M4_Gkey) then
+			current_weapon = "noo8"
+OutputLogMessage("m4 on\n")
+recoil = true
+
+		
+    end
+
+
+if (event == "G_PRESSED" and arg == HW_Gkey) then
+				current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+recoill = false
+		
+    end
+
+if (event == "G_PRESSED" and arg == LD_Gkey) then
+				current_weapon = "noo11"
+OutputLogMessage("LD on\n")
+recoil = true
+recoill = false
+		
+    end
+
+if (event == "G_PRESSED" and arg == MP7_Gkey) then
+					current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end
+
+	if (event == "G_PRESSED" and arg == AK12_Gkey) then
+recoil = true
+ recoill = false
+			current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+end 
+if (event == "G_PRESSED" and arg == C8_Gkey) then
+			current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+
+		
+end 
+if (event == "G_PRESSED" and arg == F2_Gkey) then
+current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+ recoil = true
+recoill = false
+end 
+if (event == "G_PRESSED" and arg == MP5_Gkey) then
+current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+
+end 
+if (event == "G_PRESSED" and arg == XI_Gkey) then
+recoil = true
+current_weapon = "noo19"
+
+OutputLogMessage("XI556 on\n")
+end 
+if (event == "G_PRESSED" and arg == M60_Gkey) then
+	current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == SMG_Gkey) then
+recoil = true
+current_weapon = "noo5"
+
+OutputLogMessage("smg on\n")
+end 
+if (event == "G_PRESSED" and arg == C416_Gkey) then
+urrent_weapon = "noo6"
+recoil = true
+OutputLogMessage("C416 on\n")
+end 
+
+if (event == "G_PRESSED" and arg == M762_Gkey) then
+recoil = true
+current_weapon = "noo20"
+
+OutputLogMessage("M762 on\n")
+end 
+if (event == "G_PRESSED" and arg == K1A_Gkey) then
+urrent_weapon = "noo21"
+recoil = true
+OutputLogMessage("KIA on\n")
+end 
+if (event == "G_PRESSED" and arg == ELA_Gkey) then
+urrent_weapon = "noo23"
+recoil = true
+OutputLogMessage("ELA on\n")
+end 
+if (event == "G_PRESSED" and arg == T95_Gkey) then
+		current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+end 
+
+----
+if (event == "G_PRESSED" and arg == MP5SD_Gkey) then
+	current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == V9X19_Gkey) then
+				current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == UMP45_Gkey) then
+		current_weapon = "noo30"
+OutputLogMessage("UMP on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == G8_Gkey) then
+		current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == TC12_Gkey) then
+		current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == LX_Gkey) then
+	current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == JQ_Gkey) then
+	current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == MP7_Gkey) then
+						current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == AK47_Gkey) then
+		current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+end 
+
+
+if (event == "G_PRESSED" and arg == T5SMG_Gkey) then
+			current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end 
+if (event == "G_PRESSED" and arg == SC300_Gkey) then
+		current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end 
+
+
+if (event == "G_PRESSED" and arg ==  VKT_Gkey) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event =="G_PRESSED" and arg ==  MX4_Gkey) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "G_PRESSED" and arg ==  DP27_Gkey) then 
+		current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "G_PRESSED" and arg ==  P10_Gkey) then 
+		current_weapon = "noo41"
+OutputLogMessage("P10 on\n")
+recoil = true
+recoill = false
+end
+	
+if (event == "G_PRESSED" and arg ==  AR33_Gkey) then 
+		current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "G_PRESSED" and arg ==  R4C_Gkey) then 
+		current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "G_PRESSED" and arg ==  UZK_Gkey) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+
+if (event == "G_PRESSED" and arg == OneClose_Gkey) then
+	OutputLogMessage("GB on\n")
+current_weapon = "none"
+		
+ recoil = false
+recoill = false 
+end 
+-----------------------------------------------------------------------------------------------------------
+
+
+
+if Rightclicknextfire then
+if (event == "M_RELEASED" and arg == 3 and click and  IsMouseButtonPressed(3) ) then
+go()
+end	
+
+else
+if (event == "M_RELEASED" and arg == 3 and click   ) then	
+go()
+end
+end
+function go()
+
+
+if ((current_weapon == "none")  ) then
+          
+            repeat
+                Sleep(30)
+            until not IsMouseButtonPressed(1)
+elseif 
+(current_weapon == "noo5") then 
+
+BoomSMG()
+elseif 
+(current_weapon == "noo1") then 
+
+BoomAK()
+elseif 
+(current_weapon == "noo2") then 
+
+BoomM16()
+elseif 
+(current_weapon == "noo3") then 
+
+BoomUMP9()
+elseif 
+(current_weapon == "noo4") then 
+
+
+BoomZZ()
+elseif 
+(current_weapon == "noo6") then 
+Boom416C()
+
+elseif 
+(current_weapon == "noo7") then 
+BoomTY()
+
+elseif 
+(current_weapon == "noo8") then 
+BoomHWK()
+
+elseif 
+(current_weapon == "noo9") then 
+BoomM4()
+
+elseif 
+(current_weapon == "noo10") then 
+BoomUZI()
+
+
+elseif 
+(current_weapon == "noo11") then 
+ ACPu()
+
+elseif 
+(current_weapon == "noo110") then 
+ ADPu()
+
+	
+elseif 
+(current_weapon == "noo12") then 
+
+BoomSCAR()
+elseif 
+(current_weapon == "noo13") then 
+
+BoomJQ()
+elseif 
+(current_weapon == "noo14") then 
+BoomLX()
+
+elseif 
+(current_weapon == "noo15") then 
+BoomAUG()
+elseif 
+(current_weapon == "noo16") then 
+BoomALD()
+
+
+elseif 
+(current_weapon == "noo17") then 
+BoomMPX()
+elseif 
+(current_weapon == "noo18") then 
+BoomMK17()
+elseif 
+(current_weapon == "noo19") then 
+BoomXI556()
+
+elseif 
+(current_weapon == "noo20") then 
+BoomWMM()
+
+elseif 
+(current_weapon == "noo21") then 
+BoomWMW()
+
+elseif 
+(current_weapon == "noo22") then 
+BoomQ552()
+
+elseif 
+(current_weapon == "noo23") then 
+BoomELA()
+elseif 
+(current_weapon == "noo24") then 
+BoomSPSMG()
+elseif 
+(current_weapon == "noo25") then 
+BoomT95()
+elseif 
+(current_weapon == "noo26") then 
+BoomTC12()
+elseif 
+(current_weapon == "noo27") then 
+BoomG8()
+
+elseif 
+(current_weapon == "noo28") then 
+BoomAK47()
+elseif 
+(current_weapon == "noo29") then 
+BoomPZ()
+elseif 
+(current_weapon == "noo30") then 
+BoomUMP45()
+elseif 
+(current_weapon == "noo31") then 
+BoomFMG()
+elseif 
+(current_weapon == "noo32") then 
+BoomMP5SD()
+elseif 
+(current_weapon == "noo33") then 
+BoomV9X19()
+elseif 
+(current_weapon == "noo34") then 
+Boomarx2000()
+elseif 
+(current_weapon == "noo35") then 
+BoomV308()
+elseif 
+(current_weapon == "noo36") then 
+BoomT5SMG()
+elseif 
+(current_weapon == "noo37") then 
+BoomSC300()
+elseif 
+(current_weapon == "noo38") then 
+BoomVKT()
+elseif 
+(current_weapon == "noo39") then 
+BoomMX4()
+
+elseif 
+(current_weapon == "noo40") then 
+BoomDP27()
+elseif 
+(current_weapon == "noo41") then 
+BoomP10()
+
+elseif 
+(current_weapon == "noo42") then 
+BoomAR33()
+
+
+elseif 
+(current_weapon == "noo43") then 
+BoomR4C()
+
+
+elseif 
+(current_weapon == "noo44") then 
+BoomUZK()
+
+
+
+end
+end
+
+-------执行代码---
+zdzd=false       --自动装弹
+mz=true
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==  Onepackage) then
+mz=false
+PressAndReleaseKey("Tab")
+i=0
+mx=7580
+my=55000
+mybl=3825
+mxi=50000
+myi=50000
+Sleep(70)
+if kp then
+mx=7580*2
+mybl=math.ceil(3825*1.05)
+end
+repeat
+MoveMouseTo(mx,my)
+PressMouseButton(1)
+MoveMouseTo(mx+2000,my)
+PressMouseButton(1)
+MoveMouseTo(mx,my)
+PressMouseButton(1)
+MoveMouseTo(mxi,myi)
+ReleaseMouseButton(1)
+MoveMouseTo(mxi+2000,myi)
+ReleaseMouseButton(1)
+MoveMouseTo(mxi,myi)
+ReleaseMouseButton(1)
+my=my-mybl
+i=i+1
+until(i>13)
+PressAndReleaseKey("Tab")
+mz=true
+if zdzd then
+Sleep(50)
+PressAndReleaseKey("R")
+end
+
+end 	
+
+
+
+
+
+
+	if recoil and not IsKeyLockOn("scrolllock") then
+		PressAndReleaseKey("scrolllock")
+	end
+	if not recoil and IsKeyLockOn("scrolllock") then
+		PressAndReleaseKey("scrolllock")
+	end
+
+end
+end
+end
+
+end</script>
+  </profile>
+</profiles>
