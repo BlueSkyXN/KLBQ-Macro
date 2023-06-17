@@ -1729,7 +1729,7 @@ recoil = false
     end
 
  if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
-				current_weapon = "noo11-0"
+				current_weapon = "noo11"
 OutputLogMessage("LD0 on\n")
 recoil = true
 recoill = false
@@ -1820,7 +1820,7 @@ elseif
  ACPu()
 
 elseif 
-(current_weapon == "noo11-0") then 
+(current_weapon == "noo110") then 
  ACP0u()
 	
 elseif 
