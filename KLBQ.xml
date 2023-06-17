@@ -292,7 +292,6 @@ YCYQ = 25
 
 ZBQ=true
 
-key="574670425AA"
 QBZ=true
 
 -----------------------------------------------------------------------------------------------
@@ -318,7 +317,7 @@ clickk = false
  recoil = false
  recoill = false
 function OnEvent(event, arg)
-    OutputLogMessage("\nQQ574670425  \narg = %d\n", arg)
+    OutputLogMessage("\n \narg = %d\n", arg)
 if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoil) then
    Sleep(YCYQ)
 		click = true
