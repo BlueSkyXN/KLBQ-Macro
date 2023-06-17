@@ -4,7 +4,7 @@ zhengban = "1145141919810"--！不要修改！ 否则鼠标会消失！
 --罗技鼠标键位设置 
 LDNumber = 5 --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 LD0Number = 4 --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：
-R301 =0 ----AK12 2.5 
+R301 =7 ----AK12 2.5 
 M600 =0----36C 2.5
 R99 =0----C8 2.5 
 VK47 = 0 ---f2 2.5 
@@ -324,10 +324,11 @@ Sleep(LDSD)
   end
 
 function ACP0u()
+ OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
  MoveMouseRelative(0)
 			PressMouseButton(1)
 			Sleep(LD0SD)
-
+ OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
  MoveMouseRelative(0)
 Sleep(LD0SD)
 
@@ -339,7 +340,9 @@ Sleep(LD0SD)
 
 			if click then
 			SetMKeyState(3)
+OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
 			end
+OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
   end
 	
 -------------------------------------------------------------------------------------------------
@@ -1729,7 +1732,7 @@ recoil = false
     end
 
  if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
-				current_weapon = "noo110"
+				current_weapon = "noo11"
 OutputLogMessage("LD0 on\n")
 recoil = true
 recoill = false
