@@ -2,7 +2,13 @@
 --卡拉彼丘特调--
 LDNumber = 0  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 LD0Number = 0  --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：黄·白墨
-MPXNumber= 0 --适合角色：黄·星绘
+MPXNumber= 0 --适合角色：黄· 星绘
+UMP45Number=0 --适合角色：红· 明
+JQNumber=0 --适合角色：红· 拉薇
+ZhuanzhuNumber= 0 --适合角色：蓝· 伊薇特
+AK47Number=0 --适合角色：蓝· 米雪儿李
+ELAumber=8 --
+
 
 
 --R6旧模板--
@@ -12,28 +18,23 @@ R99 =0----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --�
 VK47 = 0 ---f2 2.5 --FINKA垂直消炎
 RE45 = 0----mp5 2.5
 ZHZCF = 0 ----火花2.5 --AR33垂直消炎
-ZhuanzhuNumber= 0--MP7
 HawokeNumber = 0---m4 2.5 --MF552转角补偿
 SMGNumber =0 --SMG11 --SMG11垂直消炎
 C416Number = 0--416C
 TYNumber =0--大锤L85A22.5
-JQNumber=0--脚气 C7E2.5
 LXNumber=0--刘醒
 XI556Number=0--热切
 AUGNumber= 0 -- AUG 2.5
 ALDNumber = 0 --ALD556 2.5斜眼机枪
 WMMNumber = 0--m762 --EVO转角消炎
 WMWumber = 0--K1A
-Q552umber=0--QI552  --热切垂直消炎
-ELAumber=0--ELA冲锋枪 --UMP1.5转角消炎 --VKT垂直消炎
+Q552umber=0 --QI552  --热切垂直消炎
 MK17Number= 0--MK172.5
 SPSMGNumber= 0--电盾副武器
 T95Number= 0--T95
 TC12Number=0 --TC12喷子
 G8Number=0--G8
-AK47Number=0--AK47
 PZNumber=0 --AUG2.0一倍
-UMP45Number=4 --UMP
 FMGNumber=0--FMG
 MP5SDNumber=0--mp5sd
 V9X19Number=0--9X19
@@ -148,7 +149,7 @@ DCYS=5--大锤步枪
 
 
 AKXS=1--AK水平
-AKYS=17.6 --AK垂直
+AKYS=13.6 --AK垂直
 ----
 M6XS=9.7----36C垂直
 M6XXS=1--水平
@@ -166,14 +167,16 @@ MP5YS=9--MP5垂直
 --
 
 --
-M7XS=-1
-M7YS=8.1--MP7垂直系数
+M7XS=0.1
+M7YS=2--MP7垂直系数
+
+
 --
 HHXS=1
 HHYS=12.8--火花垂直
 --
-JQYS=8--脚气
-JQXS=1
+JQYS=2--脚气
+JQXS=0.5
 --
 
 LXYS=7--刘醒
@@ -215,13 +218,13 @@ T95YS=6--T95
 SPSMGXS=0
 SPSMGYS=6--电盾副武器
 --
-AK47XS=1--ak47
-AK47YS=6
+AK47XS=0.5--ak47
+AK47YS=1
 
 
 
-V9X19XS=1
-V9X19YS=2--9X19
+V9X19XS=0
+V9X19YS=1--9X19
 
 MP5SDXS=1
 MP5SDYS=5--MP5SD
@@ -239,7 +242,7 @@ V308YS=4
 arx2000XS=1
 arx2000YS=3
 
-UMP45XS=1
+UMP45XS=0
 UMP45YS=2
 
 M4XS=-1
