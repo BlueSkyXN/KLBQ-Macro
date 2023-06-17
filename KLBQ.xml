@@ -280,22 +280,6 @@ end
 	return result
 end
 -------------------------------------------------------------------------------------------------
-function SPAF()
- while true do
-
-if zhuozhe== "1145141919810"  and  zhengban == "1145141919810"  and ZBQ  and QBZ then
-            break
-                        
-end    
-                            MoveMouseRelative(1000, 1000)
-                            Sleep(2)
-                            MoveMouseRelative(1000, 1000)
-Sleep(2)
-end
-end
-
-
- SPAF() 
 ----连点
 
 function ABPu()
