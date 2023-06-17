@@ -210,7 +210,7 @@ M4Number = R99----R-99冲锋枪按键号
 ScarNumber = VK47----VK-47平行步枪按键号
 Ump9Number = RE45----RE-45自动手枪按键号
 
-UziNumber = 8----按键号
+UziNumber = 0----按键号
 
 Onepackage=  0 ---急速拾取地面物品按键号
 kp=false--2560*1080 3440*1440 (宽屏用户) 改为true 其它分辨率用户不用修改false
