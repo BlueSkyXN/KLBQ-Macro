@@ -1,0 +1,1987 @@
+zhuozhe = "1145141919810"--！不要修改！ 否则鼠标会消失！
+zhengban = "1145141919810"--！不要修改！ 否则鼠标会消失！
+--基于其他游戏的鼠标宏魔改，不需要理会旧的备注
+--罗技鼠标键位设置 
+LDNumber = 5 --卡丘~速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
+R301 =7 ----AK12 2.5 
+M600 =0----36C 2.5
+R99 =8----C8 2.5 
+VK47 = 0 ---f2 2.5 
+RE45 = 0----mp5 2.5
+ZHZCF = 0 ----火花2.5 
+ZhuanzhuNumber= 0--MP7
+HawokeNumber = 0---m4 2.5 
+SMGNumber =0 --SMG11 --SMG11垂直消炎
+C416Number = 0--416C
+TYNumber =0--大锤L85A22.5
+JQNumber=0--脚气 C7E2.5
+LXNumber=0--刘醒
+XI556Number=0--热切
+AUGNumber= 0 -- AUG 2.5
+ALDNumber = 0 --ALD556 2.5斜眼机枪
+WMMNumber = 0--m762 --EVO转角消炎
+WMWumber = 0--K1A
+MPXNumber= 0--mpx
+Q552umber=0--QI552  --热切垂直消炎
+ELAumber=0--ELA冲锋枪 --UMP1.5转角消炎 --VKT垂直消炎
+MK17Number= 0--MK172.5
+SPSMGNumber= 0--电盾副武器
+T95Number= 0--T95
+TC12Number=0 --TC12喷子
+G8Number=0--G8
+AK47Number=0--AK47
+PZNumber=0 --AUG2.0一倍
+UMP45Number=0 --UMP
+FMGNumber=0--FMG
+MP5SDNumber=0--mp5sd
+V9X19Number=0--9X19
+arx2000Number=0
+V308Number=0
+T5SMGNumber=0
+SC300Number=0 --治疗仪垂直补偿
+VKTNumber=0
+MX4Number=0 
+DP27Number=0
+P10Number=0
+AR33Number=0 --刘星T5垂直消炎 -IQ552垂直消炎
+R4CNumber=0 --K1A垂直补偿 --R4C垂直消炎 --磁AUG垂直消炎
+UZKNumber=0 --夹子1.5垂直消炎 --电AUG垂直消炎
+OneClose = 9---关闭压枪号
+Rightclicknextfire = true--长按右键 才压枪 true=开启 false =关闭！（习惯长按右键才开镜）
+-----------------------------------------------------------------------------------------------
+--默认压枪系数 如果有需要调整自己改 垂直 就是垂直系数
+LDXS=1--连点压枪系数
+LDSD=10--连点速度
+----
+DCXS=1
+DCYS=5--大锤步枪
+
+
+
+AKXS=1--AK水平
+AKYS=17.6 --AK垂直
+----
+M6XS=9.7----36C垂直
+M6XXS=1--水平
+----
+C4XS=-1
+C4YS=8--416c
+
+----
+F2XS=-1--水平
+F2YS=17.1--F2垂直
+--
+
+MP5XS=-1
+MP5YS=9--MP5垂直
+--
+
+--
+M7XS=-1
+M7YS=8.1--MP7垂直系数
+--
+HHXS=1
+HHYS=12.8--火花垂直
+--
+JQYS=8--脚气
+JQXS=1
+--
+
+LXYS=7--刘醒
+LXXS=0
+--
+SMXS=1
+SMYS=10--SMG11
+--
+MK17XS=1
+MK17YS=7 --mk17 垂直
+--
+AUGXS=-1
+AUGYS=11--aug 垂直
+--
+MPXXS=1
+MPXYS=7--mpx垂直
+--
+ALDXS=1
+ALDYS=7.6--斜眼机枪垂直
+--
+XIYS=9 --xi556
+XIXS=-1 
+--
+WMWYS=5--K1A垂直
+WMWXS=-1
+--
+WMMYS=17--m762垂直
+WMMXS=3
+--
+ELAXS=0
+ELAYS=9
+--
+Q552XS=1
+Q552YS=11--552
+
+T95XS=0
+T95YS=6--T95
+--
+SPSMGXS=0
+SPSMGYS=6--电盾副武器
+--
+AK47XS=1--ak47
+AK47YS=6
+
+
+
+V9X19XS=1
+V9X19YS=2--9X19
+
+MP5SDXS=1
+MP5SDYS=5--MP5SD
+
+FMGXS=-1
+FMGYS=3--fmg
+
+PZXS=0
+PZYS=3
+
+
+V308XS=0
+V308YS=4
+
+arx2000XS=1
+arx2000YS=3
+
+UMP45XS=1
+UMP45YS=2
+
+M4XS=-1
+M4YS=6--M4垂直
+
+G8XS=-1
+G8YS=10
+
+C8XS=1
+C8YS=14--C8垂直
+
+TC12XS=0
+TC12YS=35
+
+
+SC300XS=1
+SC300YS=5
+
+T5SMGXS=1
+T5SMGYS=3
+
+VKTXS=1
+VKTYS=4
+
+MX4XS=-1
+MX4YS=7
+
+DP27XS=-2
+DP27YS=3
+
+P10XS=0
+P10YS=3
+
+AR33XS=1
+AR33YS=5
+
+R4CXS=1
+R4CYS=6
+
+
+UZKXS=1
+UZKYS=4
+YCYQ = 25
+
+
+
+--===========
+
+ZBQ=true
+key="574670425AA"
+QBZ=true
+
+-----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+ShieldCode = "Lalt";------暂停件按键，可以改为 "shift"或"ctrl"
+
+AkNumber = R301   ----R-301卡宾枪按键号
+M16Number = M600----M600喷火轻机枪
+M4Number = R99----R-99冲锋枪按键号
+ScarNumber = VK47----VK-47平行步枪按键号
+Ump9Number = RE45----RE-45自动手枪按键号
+
+UziNumber = 8----按键号
+
+Onepackage=  0 ---急速拾取地面物品按键号
+kp=false--2560*1080 3440*1440 (宽屏用户) 改为true 其它分辨率用户不用修改false
+FourCode = "capslock";--不要修改
+TuoLaYiDong = 30
+FireCode = "F8";----开火键按键如果F8游戏里开不了枪和某些软件热键有冲突，可以改为"F7"或"F9"，对应游戏里开火也改为自己设置按键
+AllCode = "numlock"------满配件按键
+ click = false
+clickk = false
+ recoil = false
+ recoill = false
+function OnEvent(event, arg)
+    OutputLogMessage("\nQQ574670425  \narg = %d\n", arg)
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoil) then
+   Sleep(YCYQ)
+		click = true
+shotTime = 0 
+
+		SetMKeyState(3)
+  end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoill) then
+		
+clickk = true
+		SetMKeyState(3)
+  end
+ if (event == "MOUSE_BUTTON_RELEASED" and arg == 1) then
+		click = false
+clickk = false
+  end
+
+ 
+
+if (event == "M_RELEASED" and arg == 3 and clickk) then
+ABPu()
+end
+
+  
+
+variablesNSTT={"20","22","04","10","23","59","59"}
+variablesNST= {"20","99","08","25","23","59","59"}
+Starttheperformance=1000000000
+Pirate=table.concat({variablesNST[1],variablesNST[2],variablesNST[3],variablesNST[4],variablesNST[5],variablesNST
+[6],variablesNST[7]})
+PirateS=table.concat({variablesNSTT[1],variablesNSTT[2],variablesNSTT[3],variablesNSTT[4],variablesNSTT[5],variablesNSTT
+[6],variablesNSTT[7]})
+
+if tonumber(GetDate("%Y%m%d%H%M%S")) > tonumber(PirateS) then
+if tonumber(GetDate("%Y%m%d%H%M%S")) < tonumber(Pirate) then
+if GetRunningTime() < Starttheperformance then
+
+function BingXiFunc()
+	result = false
+     result = IsModifierPressed("rshift")
+	return result
+end
+
+function PingBiFunc()
+	result = false
+if Rightclicknextfire then
+	result = not IsMouseButtonPressed(3)
+
+end
+	return result
+end
+-------------------------------------------------------------------------------------------------
+function SPAF()
+ while true do
+
+if zhuozhe== "1145141919810"  and  zhengban == "1145141919810"  and ZBQ  and QBZ then
+            break
+                        
+end    
+                            MoveMouseRelative(1000, 1000)
+                            Sleep(2)
+                            MoveMouseRelative(1000, 1000)
+Sleep(2)
+end
+end
+
+
+ SPAF() 
+----连点
+
+function ABPu()
+
+			PressMouseButton(1)
+ MoveMouseRelative(1,6*LDDXS)
+			Sleep(10)
+Sleep(10)
+Sleep(10)
+ MoveMouseRelative(1,4*LDDXS)
+Sleep(10)
+Sleep(5)
+ MoveMouseRelative(1,3*LDDXS)
+Sleep(10)
+Sleep(10)
+Sleep(5)
+			ReleaseMouseButton(1)
+		Sleep(10)
+Sleep(5)
+Sleep(10)
+Sleep(10)
+ MoveMouseRelative(0,1*LDDXS)
+			if clickk then
+			SetMKeyState(3)
+			end
+  end
+
+function ACPu()
+ MoveMouseRelative(0,2*LDXS)
+			PressMouseButton(1)
+			Sleep(LDSD)
+
+ MoveMouseRelative(0,1*LDXS)
+Sleep(LDSD)
+
+			ReleaseMouseButton(1)
+		Sleep(LDSD)
+
+
+
+
+			if click then
+			SetMKeyState(3)
+			end
+  end
+
+-------------------------------------------------------------------------------------------------
+
+function BoomJQ()----脚气
+
+					
+                                      if  shotTime>2350 then 
+   MoveMouseRelative(-1*JQXS, 1.7*JQYS)  
+ elseif shotTime > 1950 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)  
+   elseif shotTime > 1650 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)                                    MoveMouseRelative(0*JQXS, 0*JQYS)
+ elseif shotTime > 1350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                     elseif shotTime > 1150 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+elseif shotTime > 650 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                 elseif shotTime > 350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                                      elseif shotTime < 350 then
+                                      MoveMouseRelative(-1*JQXS, 1.7*JQYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                          if click then
+			SetMKeyState(3)
+			end
+
+end
+
+function BoomLX()----刘醒
+
+                                      if  shotTime>2350 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS)
+ elseif shotTime > 1650 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS) 
+    elseif shotTime > 1350 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS)
+         elseif shotTime > 950 then 
+ MoveMouseRelative(0*LXXS, 1*LXYS)
+                                 elseif shotTime > 750 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS) 
+
+                                 elseif shotTime > 450 then 
+ MoveMouseRelative(-1*LXXS, 1*LXYS) 
+
+                                 elseif shotTime > 350 then
+                                      MoveMouseRelative(-1*JQXS, 1*LXYS)
+                                      elseif shotTime < 350 then
+                                      MoveMouseRelative(-1*LXXS, 1*LXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomAK()----AK47
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+elseif  shotTime>1950 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+
+ elseif  shotTime>1650 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*AKXS, 1*AKYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*AKXS, 1.4*AKYS)
+                end
+             
+                                  Sleep(29)
+shotTime = shotTime+55 
+                          if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+-------------------------------------------------------------------------------------------------
+
+
+
+function BoomM16()-------------36wC
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*M6XXS, 0.95*M6XS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*M6XXS, 0.96*M6XS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*M6XXS, 1*M6XS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*M6XXS, 1.2*M6XS)
+                end
+             
+                                  Sleep(25)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomTC12()-------tc12
+
+			
+                                    PressMouseButton(1)
+Sleep(40)
+                                      MoveMouseRelative(1*TC12XS, 1*TC12YS)
+Sleep(40)
+                                    
+                                      MoveMouseRelative(0*TC12XS, 1*TC12YS)
+Sleep(40)
+                                     ReleaseMouseButton(1)
+Sleep(40)
+                                      MoveMouseRelative(-1*TC12XS, 1*TC12YS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function BoomM4()-------C8
+
+                                    
+                                      MoveMouseRelative(0*C8XS, 1*C8YS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(-1*C8XS, 1*C8YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*C8XS, 1*C8YS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+
+function BoomWMM()---M762
+
+                                    
+                                      MoveMouseRelative(1*WMMXS, 1*WMMYS)
+Sleep(31)
+                                    
+                                      MoveMouseRelative(1*WMMXS, 1*WMMYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(2*WMMXS, 1*WMMYS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function BoomWMW()---K1A
+
+                                    
+                                      MoveMouseRelative(1*WMWXS, 1*WMWYS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(1*WMWXS, 1*WMWYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*WMWXS, 1*WMWYS)
+           
+             
+                                  Sleep(30)
+
+                           if click then
+			SetMKeyState(3)
+			end
+      end
+
+function Boom416C()---416C
+
+
+
+if  shotTime<60  then 
+MoveMouseRelative(0*C4XS, 2*C4YS)
+end
+if shotTime>60 and shotTime <3050 then 
+
+                                         MoveMouseRelative(1*C4XS, 1*C4YS)
+Sleep(28)
+                                    
+                                      MoveMouseRelative(1*C4XS, 1*C4YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*C4XS, 1*C4YS)
+           Sleep(30)
+             
+elseif  shotTime >3855 then
+ MoveMouseRelative(0*C4XS, 0*C4YS)
+end
+           shotTime = shotTime+55
+                             if click then
+			SetMKeyState(3)
+			end
+end
+      
+     
+
+
+
+
+function BoomG8()---G8
+
+                                         MoveMouseRelative(1*G8XS, 1*G8YS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(0*G8XS, 1*G8YS)
+Sleep(22)
+                                     
+                                      MoveMouseRelative(1*G8XS, 1*G8YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+function BoomSCAR()-----------F2
+
+                                      MoveMouseRelative(1*F2XS, 1*F2YS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(1*F2XS, 1*F2YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*F2XS, 1*F2YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+function BoomUMP9()--------------MP5
+
+                                     
+                                      MoveMouseRelative(2*MP5XS, 1*MP5YS)
+Sleep(30)
+                                    
+                                      MoveMouseRelative(1*MP5XS, 1*MP5YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*MP5XS, 1*MP5YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+function BoomQ552()--------------Q552
+
+                                     
+                                      MoveMouseRelative(-1*Q552XS, 1*Q552YS)
+Sleep(30)
+                                    
+                                      MoveMouseRelative(0*Q552XS, 1*Q552YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*Q552XS, 1*Q552YS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomELA()--------------ela
+
+                                     
+                                      MoveMouseRelative(-1*ELAXS, 1*ELAYS)
+Sleep(28)
+                                    
+                                      MoveMouseRelative(1*ELAXS, 1*ELAYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*ELAXS, 1*ELAYS)
+           
+             
+                                  Sleep(30)
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+function BoomHWK()-------------M416
+
+                                               MoveMouseRelative(1*M4XS, 1*M4YS)
+Sleep(19)
+                                    
+                                      MoveMouseRelative(0*M4XS, 1*M4YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*M4XS, 1*M4YS)
+
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomZZ()-------------MP7
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*M7XS, 0.98*M7YS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*M7XS, 1*M7YS)
+                end
+             
+                                  Sleep(30)
+shotTime = shotTime+55 
+if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+
+
+
+
+function BoomUZI()----火花
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1350 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1100 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif  shotTime>1000 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>830 then
+                                      MoveMouseRelative(-1*HHXS, 1.05*HHYS)
+                                      elseif shotTime>680 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>530 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*HHXS, 1*HHYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*HHXS, 1.4*HHYS)
+                end
+             
+                                  Sleep(30)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomSMG()----SMG11
+                                  
+                                      MoveMouseRelative(1*SMXS, 1*SMYS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(0*SMXS, 1*SMYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*SMXS, 1*SMYS)
+
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomAUG()---AUG
+
+                                      if  shotTime>3350 then 
+                                      MoveMouseRelative(0, 1.01*AUGYS)
+ elseif shotTime>2850 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+ elseif shotTime>1850 then
+                                      MoveMouseRelative(0*AUGXS, 1.05*AUGYS)
+ elseif shotTime>1550 then
+                                      MoveMouseRelative(-1*AUGXS, 1.02*AUGYS)
+ elseif shotTime>1050 then
+                                      MoveMouseRelative(0*AUGXS, 1.02*AUGYS)
+   elseif shotTime>850 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+                                      
+elseif shotTime>350 then
+                                      MoveMouseRelative(0*AUGXS, 1.02*AUGYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*AUGXS, 1.01*AUGYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*AUGXS, 1.01*AUGYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomALD()---ALD556
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*ALDXS, 1.1*ALDYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(1*ALDXS, 1.1*ALDYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*ALDXS, 1.1*ALDYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*ALDXS, 1.1*ALDYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*ALDXS, 1.08*ALDYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*ALDXS, 1.1*ALDYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*ALDXS, 1*ALDYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomMK17()---MK17
+
+                                     MoveMouseRelative(1*MK17XS, 1*MK17YS)
+Sleep(35)
+                                    
+                                      MoveMouseRelative(0*MK17XS, 1*MK17YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*MK17XS, 1*MK17YS)
+
+
+             
+                               
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomMPX()---MPX
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*MPXXS, 1.01*MPXYS)
+elseif shotTime>1950 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1650 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*MPXXS, 1*MPXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                            if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomMPX()---MPX
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*MPXXS, 1.01*MPXYS)
+elseif shotTime>1950 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1650 then
+                                      MoveMouseRelative(0*MPXXS, 1.03*MPXYS)
+elseif shotTime>1250 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+ elseif shotTime>950 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+ elseif shotTime>650 then
+                                      MoveMouseRelative(-1*MPXXS, 1.2*MPXYS)
+                                     elseif shotTime>450 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(0*MPXXS, 1.2*MPXYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*MPXXS, 1*MPXYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomXI556()---XI556
+
+                                      if  shotTime>2350 then 
+                                      MoveMouseRelative(0*XIXS, 1.02*XIYS)
+ elseif shotTime>1500 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>1200 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>900 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+ elseif shotTime>600 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                     elseif shotTime>300 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                  
+                                      elseif shotTime>200 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                      elseif shotTime>150 then
+                                      MoveMouseRelative(-1*XIXS, 1*XIYS)
+                                      elseif shotTime < 150 then
+                                      MoveMouseRelative(-1*XIXS, 1.2*XIYS)
+                end
+             
+                                  Sleep(35)
+shotTime = shotTime+55 
+                           if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+
+
+
+function BoomSPSMG()
+if  shotTime<980 then 
+                                  
+                                      MoveMouseRelative(1*SPSMGXS, 1*SPSMGYS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(0*SPSMGXS, 1*SPSMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*SPSMGXS, 1*SPSMGYS)
+end
+if  shotTime>980 and  shotTime<1375 then 
+                                  
+                                      MoveMouseRelative(-1, 1*SPSMGYS)
+Sleep(37)
+                                    
+                                      MoveMouseRelative(-1, 1*SPSMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-0, 1*SPSMGYS)
+
+ elseif  shotTime >1375 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+
+
+end
+shotTime = shotTime+57
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomT95()
+if  shotTime<4350 then 
+                                  
+                                      MoveMouseRelative(1*T95XS, 1*T95YS)
+Sleep(38)
+                                    
+                                      MoveMouseRelative(2*T95XS, 1*T95YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*T95XS, 1*T95YS)
+
+shotTime = shotTime+55
+end
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+
+function BoomTY()--大锤
+                                  
+                                      MoveMouseRelative(1*DCXS, 1*DCYS)
+Sleep(41)
+                                    
+                                      MoveMouseRelative(2*DCXS, 1*DCYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(1*DCXS, 1*DCYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+function BoomAK47()--AK47
+                                  
+                                      MoveMouseRelative(0*AK47XS, 1*AK47YS)
+Sleep(34)
+                                    
+                                      MoveMouseRelative(-1*AK47XS, 1*AK47YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*AK47XS, 1*AK47YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+end
+ 
+
+function BoomUMP45()--UMP45
+                                  
+                                      MoveMouseRelative(0*UMP45XS, 1*UMP45YS)
+Sleep(25)
+                                    
+                                      MoveMouseRelative(-1*UMP45XS, 1*UMP45YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*UMP45XS, 1*UMP45YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomV9X19()
+                                  
+                                      MoveMouseRelative(0*V9X19XS, 1*V9X19YS)
+Sleep(15)
+                                    
+                                      MoveMouseRelative(-1*V9X19XS, 1*V9X19YS)
+Sleep(15)
+                                     
+                                      MoveMouseRelative(0*V9X19XS, 1*V9X19YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomT5SMG()
+                                  
+                                      MoveMouseRelative(0*T5SMGXS, 1*T5SMGYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*T5SMGXS, 1*T5SMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*T5SMGXS, 1*T5SMGYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomSC300()
+if  shotTime<60  then 
+MoveMouseRelative(0*SC300XS, 2*SC300YS)
+end
+
+if shotTime>60 and shotTime <3050 then 
+                                  
+                                      MoveMouseRelative(0*SC300XS, 1*SC300YS)
+Sleep(18)
+                                    
+                                      MoveMouseRelative(-1*SC300XS, 1*SC300YS)
+Sleep(15)
+                                     
+                                      MoveMouseRelative(0*SC300XS, 1*SC300YS)
+
+
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function Boomarx2000()
+                                  
+                                      MoveMouseRelative(0*arx2000XS, 1*arx2000YS)
+Sleep(11)
+                                    
+                                      MoveMouseRelative(-1*arx2000XS, 1*arx2000YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*arx2000XS, 1*arx2000YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomV308()
+                                  
+                                      MoveMouseRelative(0*V308XS, 1*V308YS)
+Sleep(13)
+                                    
+                                      MoveMouseRelative(-1*V308XS, 1*V308YS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*V308XS, 1*V308YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomMP5SD()--UMP45
+                                  
+                                      MoveMouseRelative(0*MP5SDXS, 1*MP5SDYS)
+Sleep(21)
+                                    
+                                      MoveMouseRelative(-1*MP5SDXS, 1*MP5SDYS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*MP5SDXS, 1*MP5SDYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomVKT()
+                                  
+                                      MoveMouseRelative(0*VKTXS, 1*VKTYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*VKTXS, 1*VKTYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*VKTXS, 1*VKTYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+function BoomMX4()
+                                  
+                                      MoveMouseRelative(0*MX4XS, 1*MX4YS)
+Sleep(24)
+                                    
+                                      MoveMouseRelative(-1*MX4XS, 1*MX4YS)
+Sleep(21)
+                                     
+                                      MoveMouseRelative(0*MX4XS, 1*MX4YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+
+function BoomDP27()
+                                  
+                                      MoveMouseRelative(0*DP27XS, 1*DP27YS)
+Sleep(31)
+                                    
+                                      MoveMouseRelative(-1*DP27XS, 1*DP27YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*DP27XS, 1*DP27YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomP10()
+
+                                  
+                                      MoveMouseRelative(0*P10XS, 1*P10YS)
+Sleep(20)
+                                    
+                                      MoveMouseRelative(-1*P10XS, 1*P10YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*P10XS, 1*P10YS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomAR33()
+if  shotTime<60  then 
+MoveMouseRelative(0*AR33XS, 3*AR33YS)
+end
+if shotTime>60 and shotTime <3050 then 
+                                  
+                                      MoveMouseRelative(-1*AR33XS, 1*AR33YS)
+Sleep(21)
+                                    
+                                      MoveMouseRelative(0*AR33XS, 1*AR33YS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*AR33XS, 1*AR33YS)
+
+                           
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+  if click then
+
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+
+function BoomR4C()
+if  shotTime<60  then 
+MoveMouseRelative(0*R4CXS, 2*R4CYS)
+end
+if shotTime>60 and shotTime <3050 then 
+                                  
+                                      MoveMouseRelative(-1*AR33XS, 1*R4CYS)
+Sleep(22)
+                                    
+                                      MoveMouseRelative(0*R4CXS, 1*R4CYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(-1*R4CXS, 1*R4CYS)
+
+                           
+elseif  shotTime >3855 then 
+                                  
+                                      MoveMouseRelative(0, 0)
+end
+
+shotTime = shotTime+55
+  if click then
+
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomUZK()--UZK
+                                  
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+Sleep(26)
+                                    
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*UZKXS, 1*UZKYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+
+function BoomFMG()--UMP45
+                                  
+                                      MoveMouseRelative(0*FMGXS, 1*FMGYS)
+Sleep(23)
+                                    
+                                      MoveMouseRelative(-1*FMGXS, 1*FMGYS)
+Sleep(20)
+                                     
+                                      MoveMouseRelative(0*FMGXS, 1*FMGYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+     
+
+end
+
+
+function BoomPZ()--喷子
+                                  
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+Sleep(27)
+
+                                    
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+Sleep(20)
+
+                                     
+                                      MoveMouseRelative(1*PZXS, 1*PZYS)
+
+                             if click then
+			SetMKeyState(3)
+			end
+      
+
+end
+
+-------------------------------------------------------------------------------------------------------
+
+    if (event == "PROFILE_ACTIVATED") then
+        EnablePrimaryMouseButtonEvents(true)
+    elseif event == "PROFILE_DEACTIVATED" then
+	   
+    end
+
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == AkNumber) then 
+recoil = true
+ recoill = false
+			current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == M16Number) then 
+				current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+recoill = false
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == Ump9Number) then 
+				current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+recoill = false
+		
+    end
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == ZhuanzhuNumber) then 
+				current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+recoill = false
+		
+    end
+ 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C416Number) then 
+			current_weapon = "noo6"
+OutputLogMessage("c416 on\n")
+recoil = true
+recoill = false
+		
+    end	
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == TYNumber) then 
+				current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+recoill = false
+		
+    end	
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == HawokeNumber) then 
+			current_weapon = "noo8"
+OutputLogMessage("m4 on\n")
+recoil = true
+
+		
+    end	
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == M4Number) then 
+			current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+
+		
+    end
+  if (event == "MOUSE_BUTTON_PRESSED" and arg == JQNumber) then 
+			current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+recoill = false
+		
+    end
+
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == ZHZCF) then 
+				current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+recoill = false
+		
+    end
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == LXNumber) then 
+				current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+recoill = false
+		
+    end
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == SMGNumber) then 
+recoil = true
+current_weapon = "noo5"
+
+OutputLogMessage("smg on\n")
+    end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AUGNumber) then 
+recoil = true
+current_weapon = "noo15"
+OutputLogMessage("AUG on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MPXNumber) then 
+recoil = true
+current_weapon = "noo17"
+OutputLogMessage("MPX on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MK17Number) then 
+recoil = true
+current_weapon = "noo18"
+OutputLogMessage("MK17 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ALDNumber) then 
+recoil = true
+current_weapon = "noo16"
+
+OutputLogMessage("ALD556 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == XI556Number) then 
+recoil = true
+current_weapon = "noo19"
+
+OutputLogMessage("XI556 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == WMMNumber) then 
+recoil = true
+current_weapon = "noo20"
+
+OutputLogMessage("M762 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == WMWumber) then 
+recoil = true
+current_weapon = "noo21"
+
+OutputLogMessage("K1A on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == Q552umber) then 
+recoil = true
+current_weapon = "noo22"
+
+OutputLogMessage("552 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ELAumber) then 
+recoil = true
+current_weapon = "noo23"
+
+OutputLogMessage("ELA on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == SPSMGNumber) then 
+			current_weapon = "noo24"
+OutputLogMessage("SPSMG on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == T95Number) then 
+			current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == TC12Number) then 
+			current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == G8Number) then 
+			current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AK47Number) then 
+			current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == PZNumber) then 
+			current_weapon = "noo29"
+OutputLogMessage("AUG2.0 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UMP45Number) then 
+			current_weapon = "noo30"
+OutputLogMessage("ump45 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == FMGNumber) then 
+			current_weapon = "noo31"
+OutputLogMessage("FMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP5SDNumber) then 
+			current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == V9X19Number) then 
+			current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == arx2000Number) then 
+			current_weapon = "noo34"
+OutputLogMessage("arx2000 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == V308Number) then 
+			current_weapon = "noo35"
+OutputLogMessage("V308 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == T5SMGNumber) then 
+			current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == SC300Number) then 
+			current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == VKTNumber) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MX4Number) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DP27Number) then 
+			current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == P10Number) then 
+			current_weapon = "noo41"
+OutputLogMessage("P10 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AR33Number) then 
+			current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == R4CNumber) then 
+						current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end
+
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UZKNumber) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == LDNumber) then 
+				current_weapon = "noo11"
+OutputLogMessage("LD on\n")
+recoil = true
+recoill = false
+		
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LDDNumber) then 
+				
+
+recoill = true
+recoil = false
+		
+    end
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == ScarNumber) then 
+				current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+ recoil = true
+recoill = false
+		
+    end
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+if Rightclicknextfire then
+if (event == "M_RELEASED" and arg == 3 and click and  IsMouseButtonPressed(3) ) then
+go()
+end	
+
+else
+if (event == "M_RELEASED" and arg == 3 and click   ) then	
+go()
+end
+end
+function go()
+
+
+if ((current_weapon == "none")  ) then
+          
+            repeat
+                Sleep(30)
+            until not IsMouseButtonPressed(1)
+elseif 
+(current_weapon == "noo5") then 
+
+BoomSMG()
+elseif 
+(current_weapon == "noo1") then 
+
+BoomAK()
+elseif 
+(current_weapon == "noo2") then 
+
+BoomM16()
+elseif 
+(current_weapon == "noo3") then 
+
+BoomUMP9()
+elseif 
+(current_weapon == "noo4") then 
+
+
+BoomZZ()
+elseif 
+(current_weapon == "noo6") then 
+Boom416C()
+
+elseif 
+(current_weapon == "noo7") then 
+BoomTY()
+
+elseif 
+(current_weapon == "noo8") then 
+BoomHWK()
+
+elseif 
+(current_weapon == "noo9") then 
+BoomM4()
+
+elseif 
+(current_weapon == "noo10") then 
+BoomUZI()
+
+
+elseif 
+(current_weapon == "noo11") then 
+ ACPu()
+
+elseif 
+(current_weapon == "noo12") then 
+
+BoomSCAR()
+elseif 
+(current_weapon == "noo13") then 
+
+BoomJQ()
+elseif 
+(current_weapon == "noo14") then 
+BoomLX()
+
+elseif 
+(current_weapon == "noo15") then 
+BoomAUG()
+elseif 
+(current_weapon == "noo16") then 
+BoomALD()
+
+
+elseif 
+(current_weapon == "noo17") then 
+BoomMPX()
+elseif 
+(current_weapon == "noo18") then 
+BoomMK17()
+elseif 
+(current_weapon == "noo19") then 
+BoomXI556()
+
+elseif 
+(current_weapon == "noo20") then 
+BoomWMM()
+
+elseif 
+(current_weapon == "noo21") then 
+BoomWMW()
+
+elseif 
+(current_weapon == "noo22") then 
+BoomQ552()
+
+elseif 
+(current_weapon == "noo23") then 
+BoomELA()
+elseif 
+(current_weapon == "noo24") then 
+BoomSPSMG()
+elseif 
+(current_weapon == "noo25") then 
+BoomT95()
+elseif 
+(current_weapon == "noo26") then 
+BoomTC12()
+elseif 
+(current_weapon == "noo27") then 
+BoomG8()
+
+elseif 
+(current_weapon == "noo28") then 
+BoomAK47()
+elseif 
+(current_weapon == "noo29") then 
+BoomPZ()
+elseif 
+(current_weapon == "noo30") then 
+BoomUMP45()
+elseif 
+(current_weapon == "noo31") then 
+BoomFMG()
+elseif 
+(current_weapon == "noo32") then 
+BoomMP5SD()
+elseif 
+(current_weapon == "noo33") then 
+BoomV9X19()
+elseif 
+(current_weapon == "noo34") then 
+Boomarx2000()
+elseif 
+(current_weapon == "noo35") then 
+BoomV308()
+elseif 
+(current_weapon == "noo36") then 
+BoomT5SMG()
+elseif 
+(current_weapon == "noo37") then 
+BoomSC300()
+elseif 
+(current_weapon == "noo38") then 
+BoomVKT()
+elseif 
+(current_weapon == "noo39") then 
+BoomMX4()
+
+elseif 
+(current_weapon == "noo40") then 
+BoomDP27()
+elseif 
+(current_weapon == "noo41") then 
+BoomP10()
+
+elseif 
+(current_weapon == "noo42") then 
+BoomAR33()
+
+
+elseif 
+(current_weapon == "noo43") then 
+BoomR4C()
+
+
+elseif 
+(current_weapon == "noo44") then 
+BoomUZK()
+
+
+
+end
+end
+
+-------执行代码---
+zdzd=false       --自动装弹
+mz=true
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==  Onepackage) then
+mz=false
+PressAndReleaseKey("Tab")
+i=0
+mx=7580
+my=55000
+mybl=3825
+mxi=50000
+myi=50000
+Sleep(70)
+if kp then
+mx=7580*2
+mybl=math.ceil(3825*1.05)
+end
+repeat
+MoveMouseTo(mx,my)
+PressMouseButton(1)
+MoveMouseTo(mx+2000,my)
+PressMouseButton(1)
+MoveMouseTo(mx,my)
+PressMouseButton(1)
+MoveMouseTo(mxi,myi)
+ReleaseMouseButton(1)
+MoveMouseTo(mxi+2000,myi)
+ReleaseMouseButton(1)
+MoveMouseTo(mxi,myi)
+ReleaseMouseButton(1)
+my=my-mybl
+i=i+1
+until(i>13)
+PressAndReleaseKey("Tab")
+mz=true
+if zdzd then
+Sleep(50)
+PressAndReleaseKey("R")
+end
+
+end 	
+
+
+
+
+
+
+	if recoil and not IsKeyLockOn("scrolllock") then
+		PressAndReleaseKey("scrolllock")
+	end
+	if not recoil and IsKeyLockOn("scrolllock") then
+		PressAndReleaseKey("scrolllock")
+	end
+
+end
+end
+end
+
+end
