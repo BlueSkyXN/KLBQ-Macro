@@ -1,11 +1,11 @@
 --罗技鼠标键位设置 
+LDNumber = 5  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 R301 =7 ----AK12 2.5  -F2垂直消炎 --SMG12垂直消炎 -2.5转角消炎
 M600 =0----36C 2.5
 R99 =8----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --门P10转角补偿 --热切
 VK47 = 0 ---f2 2.5 --FINKA垂直消炎
 RE45 = 0----mp5 2.5
 ZHZCF = 0 ----火花2.5 --AR33垂直消炎
-LDNumber = 5  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 ZhuanzhuNumber= 0--MP7
 HawokeNumber = 0---m4 2.5 --MF552转角补偿
 SMGNumber =0 --SMG11 --SMG11垂直消炎
@@ -410,7 +410,25 @@ Sleep(LDSD)
 			SetMKeyState(3)
 			end
   end
+	
+function ADPu()
+ MoveMouseRelative(0,2*LDXS)
+			PressMouseButton(1)
+			Sleep(LDSD)
 
+ MoveMouseRelative(0,1*LDXS)
+Sleep(LDSD)
+
+			ReleaseMouseButton(1)
+		Sleep(LDSD)
+
+
+
+
+			if click then
+			SetMKeyState(3)
+			end
+  end
 -------------------------------------------------------------------------------------------------
 
 function BoomJQ()----脚气
@@ -1837,6 +1855,25 @@ recoil = false
 		
     end
 
+
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
+				current_weapon = "noo110"
+recoil = true
+recoill = false
+OutputLogMessage("LD0 on\n")
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LDD0Number) then 
+				
+
+recoill = true
+recoil = false
+		
+    end
+
+
+
+
+	
     if (event == "MOUSE_BUTTON_PRESSED" and arg == ScarNumber) then 
 				current_weapon = "noo12"
 OutputLogMessage("F2 on\n")
@@ -2394,6 +2431,11 @@ elseif
 (current_weapon == "noo11") then 
  ACPu()
 
+elseif 
+(current_weapon == "noo110") then 
+ ADPu()
+
+	
 elseif 
 (current_weapon == "noo12") then 
 
