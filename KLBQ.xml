@@ -1728,6 +1728,21 @@ recoil = false
 		
     end
 
+ if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
+				current_weapon = "noo11-0"
+OutputLogMessage("LD0 on\n")
+recoil = true
+recoill = false
+		
+    end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LDD0Number) then 
+				
+
+recoill = true
+recoil = false
+		
+    end
+	
     if (event == "MOUSE_BUTTON_PRESSED" and arg == ScarNumber) then 
 				current_weapon = "noo12"
 OutputLogMessage("F2 on\n")
@@ -1804,6 +1819,10 @@ elseif
 (current_weapon == "noo11") then 
  ACPu()
 
+elseif 
+(current_weapon == "noo11-0") then 
+ ACP0u()
+	
 elseif 
 (current_weapon == "noo12") then 
 
