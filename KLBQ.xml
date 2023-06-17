@@ -324,11 +324,11 @@ Sleep(LDSD)
   end
 
 function ACP0u()
- MoveMouseRelative(0,2*LD0XS)
+ MoveMouseRelative(0)
 			PressMouseButton(1)
 			Sleep(LD0SD)
 
- MoveMouseRelative(0,1*LD0XS)
+ MoveMouseRelative(0)
 Sleep(LD0SD)
 
 			ReleaseMouseButton(1)
@@ -1729,7 +1729,7 @@ recoil = false
     end
 
  if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
-				current_weapon = "noo11"
+				current_weapon = "noo110"
 OutputLogMessage("LD0 on\n")
 recoil = true
 recoill = false
