@@ -1,15 +1,21 @@
 --罗技鼠标键位设置 
-LDNumber = 5  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
-R301 =7 ----AK12 2.5  -F2垂直消炎 --SMG12垂直消炎 -2.5转角消炎
+--卡拉彼丘特调--
+LDNumber = 0  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
+LD0Number = 0  --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：黄·白墨
+MPXNumber= 0 --适合角色：黄·星绘
+
+
+--R6旧模板--
+R301 =0 ----AK12 2.5  -F2垂直消炎 --SMG12垂直消炎 -2.5转角消炎
 M600 =0----36C 2.5
-R99 =8----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --门P10转角补偿 --热切
+R99 =0----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --门P10转角补偿 --热切
 VK47 = 0 ---f2 2.5 --FINKA垂直消炎
 RE45 = 0----mp5 2.5
 ZHZCF = 0 ----火花2.5 --AR33垂直消炎
 ZhuanzhuNumber= 0--MP7
 HawokeNumber = 0---m4 2.5 --MF552转角补偿
 SMGNumber =0 --SMG11 --SMG11垂直消炎
-C416Number = 4--416C
+C416Number = 0--416C
 TYNumber =0--大锤L85A22.5
 JQNumber=0--脚气 C7E2.5
 LXNumber=0--刘醒
@@ -18,7 +24,6 @@ AUGNumber= 0 -- AUG 2.5
 ALDNumber = 0 --ALD556 2.5斜眼机枪
 WMMNumber = 0--m762 --EVO转角消炎
 WMWumber = 0--K1A
-MPXNumber= 0--mpx
 Q552umber=0--QI552  --热切垂直消炎
 ELAumber=0--ELA冲锋枪 --UMP1.5转角消炎 --VKT垂直消炎
 MK17Number= 0--MK172.5
@@ -28,7 +33,7 @@ TC12Number=0 --TC12喷子
 G8Number=0--G8
 AK47Number=0--AK47
 PZNumber=0 --AUG2.0一倍
-UMP45Number=0 --UMP
+UMP45Number=4 --UMP
 FMGNumber=0--FMG
 MP5SDNumber=0--mp5sd
 V9X19Number=0--9X19
@@ -183,8 +188,8 @@ MK17YS=7 --mk17 垂直
 AUGXS=-1
 AUGYS=11--aug 垂直
 --
-MPXXS=1
-MPXYS=7--mpx垂直
+MPXXS=0.1
+MPXYS=3--mpx垂直 --卡丘·黄·星绘
 --
 ALDXS=1
 ALDYS=7.6--斜眼机枪垂直
@@ -412,11 +417,11 @@ Sleep(LDSD)
   end
 	
 function ADPu()
- MoveMouseRelative(0,2*LDXS)
+ MoveMouseRelative(0,0*LDXS)
 			PressMouseButton(1)
 			Sleep(LDSD)
 
- MoveMouseRelative(0,1*LDXS)
+ MoveMouseRelative(0,0*LDXS)
 Sleep(LDSD)
 
 			ReleaseMouseButton(1)
