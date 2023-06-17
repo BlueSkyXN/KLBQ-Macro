@@ -1,19 +1,15 @@
-zhuozhe = "1145141919810"--！不要修改！ 否则鼠标会消失！
-zhengban = "1145141919810"--！不要修改！ 否则鼠标会消失！
---基于其他游戏的鼠标宏魔改，不需要理会旧的备注
 --罗技鼠标键位设置 
-LDNumber = 5 --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
-LD0Number = 4 --卡丘~无压速点连点 | 适合单点/半自动 | 适合角色：
-R301 =7 ----AK12 2.5 
+R301 =7 ----AK12 2.5  -F2垂直消炎 --SMG12垂直消炎 -2.5转角消炎
 M600 =0----36C 2.5
-R99 =0----C8 2.5 
-VK47 = 0 ---f2 2.5 
+R99 =8----C8 2.5 --MP52垂直消炎 M762垂直补偿 --牛子1.5垂直消炎 --门P10转角补偿 --热切
+VK47 = 0 ---f2 2.5 --FINKA垂直消炎
 RE45 = 0----mp5 2.5
-ZHZCF = 0 ----火花2.5 
+ZHZCF = 0 ----火花2.5 --AR33垂直消炎
+LDNumber = 5  --卡丘~微压速点连点 | 适合单点/半自动 | 适合角色：黄·玛德蕾娜、红·令
 ZhuanzhuNumber= 0--MP7
-HawokeNumber = 0---m4 2.5 
+HawokeNumber = 0---m4 2.5 --MF552转角补偿
 SMGNumber =0 --SMG11 --SMG11垂直消炎
-C416Number = 0--416C
+C416Number = 4--416C
 TYNumber =0--大锤L85A22.5
 JQNumber=0--脚气 C7E2.5
 LXNumber=0--刘醒
@@ -50,15 +46,102 @@ UZKNumber=0 --夹子1.5垂直消炎 --电AUG垂直消炎
 OneClose = 9---关闭压枪号
 Rightclicknextfire = true--长按右键 才压枪 true=开启 false =关闭！（习惯长按右键才开镜）
 -----------------------------------------------------------------------------------------------
+-- 罗技键盘键位自定义：有G键的，G1就输入1 G2就是2，没有G键的，F1就是1  F2就是2
+-- 别乱改，你首先得有个罗技键盘，还得支持宏才行，其他键盘别改！
+MK17_Gkey=0
+QI552_Gkey=0
+ALD_Gkey=0--斜眼机枪
+AUG_Gkey=0
+L85A_Gkey=0
+M4_Gkey=0
+HW_Gkey=0--火花
+LD_Gkey=0--连点
+MP7_Gkey=0
+AK12_Gkey = 0------AK12 2.5
+C8_Gkey = 0------C8 2.5
+F2_Gkey = 0----F2.5
+MP5_Gkey = 0----MP5
+M60_Gkey = 0-----36C 2.5
+C416_Gkey=0 --416C
+SMG_Gkey=0 --smg11
+XI_Gkey = 0 --xi556
+M762_Gkey =0--M762
+K1A_Gkey = 0--K1A
+ELA_Gkey = 0--ELA
+T95_Gkey = 0
+MP5SD_Gkey=0
+V9X19_Gkey=0
+UMP45_Gkey=0
+G8_Gkey=0
+TC12_Gkey=0
+LX_Gkey=0--刘醒
+JQ_Gkey=0--脚气
+MP7_Gkey=0
+AK47_Gkey=0
+T5SMG_Gkey=0
+SC300_Gkey=0
+MX4_Gkey=0
+VKT_Gkey=0
+P10_Gkey=0
+DP27_Gkey=0
+AR33_Gkey=0
+R4C_Gkey=0
+UZK_Gkey=0
+OneClose_Gkey = 0---关闭压枪
+--第二组压枪数据，建议键位少的鼠标使用
+--使用方法，同时按功能键+鼠标键位即可切换第二组压枪数据
+--功能键可以改键，仅限 lalt 和 lshift 两个键位可以修改，不建议改lshift，因跑动过程中无法切换数据！
+--第二组开关控制(不想使用可以把l改成r)
+Second="lctrl"
+HWkey=0--火花2.5
+AK12key=6--AK12 2.5
+C36Ckey=0--36C2.5
+MP7key=0--MP7
+MP5key=0--MP5 2.5
+DCkey=0--大锤2.5
+C416Ckey=0--C416
+JQkey=0--脚气2.5
+LXkey=0--刘醒SMG
+F2key=4--F2
+C8key=5 --C8
+MPXkey=0--MPX
+ALDkey=0--斜眼机枪
+XIkey=0--xi556
+T95key=0--T95
+M762key =0 --M762
+K1Akey =0 --K1A
+TC12key =0 --TC12喷子
+AUG20key =0 --AUG2.0
+AK47key =0 --AK47
+G8key=0 --大G8
+UMP45key=0 --UMP45
+FMGkey = 0 --fmg
+MP5SDkey = 0 
+V9X19key = 0 
+arx2000key=0
+V308key=0
+T5SMGkey=0
+SC300Gkey=0
+VKTkey= 0
+MX4key=0
+DP27key=0
+P10key=0
+AR33key=0
+R4Ckey=0
+
+UZKkey=0
+
+
+
 --默认压枪系数 如果有需要调整自己改 垂直 就是垂直系数
 LDXS=1--连点压枪系数
 LDSD=10--连点速度
-LD0XS=0--无压连点压枪系数
-LD0SD=10--连点速度
 ----
 DCXS=1
 DCYS=5--大锤步枪
-----
+
+
+
 AKXS=1--AK水平
 AKYS=17.6 --AK垂直
 ----
@@ -67,12 +150,16 @@ M6XXS=1--水平
 ----
 C4XS=-1
 C4YS=8--416c
+
 ----
 F2XS=-1--水平
 F2YS=17.1--F2垂直
 --
+
 MP5XS=-1
 MP5YS=9--MP5垂直
+--
+
 --
 M7XS=-1
 M7YS=8.1--MP7垂直系数
@@ -197,6 +284,7 @@ YCYQ = 25
 --===========
 
 ZBQ=true
+
 key="574670425AA"
 QBZ=true
 
@@ -210,7 +298,7 @@ M4Number = R99----R-99冲锋枪按键号
 ScarNumber = VK47----VK-47平行步枪按键号
 Ump9Number = RE45----RE-45自动手枪按键号
 
-UziNumber = 0----按键号
+UziNumber = 8----按键号
 
 Onepackage=  0 ---急速拾取地面物品按键号
 kp=false--2560*1080 3440*1440 (宽屏用户) 改为true 其它分辨率用户不用修改false
@@ -223,7 +311,7 @@ clickk = false
  recoil = false
  recoill = false
 function OnEvent(event, arg)
-    OutputLogMessage("\n \narg = %d\n", arg)
+    OutputLogMessage("\nQQ574670425  \narg = %d\n", arg)
 if (event == "MOUSE_BUTTON_PRESSED" and arg == 1  and recoil) then
    Sleep(YCYQ)
 		click = true
@@ -323,28 +411,6 @@ Sleep(LDSD)
 			end
   end
 
-function ACP0u()
- OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
- MoveMouseRelative(0)
-			PressMouseButton(1)
-			Sleep(LD0SD)
- OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
- MoveMouseRelative(0)
-Sleep(LD0SD)
-
-			ReleaseMouseButton(1)
-		Sleep(LD0SD)
-
-
-
-
-			if click then
-			SetMKeyState(3)
-OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
-			end
-OutputLogMessage("ACP0u function\n")  -- 新增的打印语句
-  end
-	
 -------------------------------------------------------------------------------------------------
 
 function BoomJQ()----脚气
@@ -446,6 +512,16 @@ shotTime = shotTime+55
 end
 
 -------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1427,6 +1503,36 @@ end
 
 -------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
     if (event == "PROFILE_ACTIVATED") then
         EnablePrimaryMouseButtonEvents(true)
     elseif event == "PROFILE_DEACTIVATED" then
@@ -1731,21 +1837,6 @@ recoil = false
 		
     end
 
- if (event == "MOUSE_BUTTON_PRESSED" and arg == LD0Number) then 
-				current_weapon = "noo11"
-OutputLogMessage("LD0 on\n")
-recoil = true
-recoill = false
-		
-    end
-if (event == "MOUSE_BUTTON_PRESSED" and arg == LDD0Number) then 
-				
-
-recoill = true
-recoil = false
-		
-    end
-	
     if (event == "MOUSE_BUTTON_PRESSED" and arg == ScarNumber) then 
 				current_weapon = "noo12"
 OutputLogMessage("F2 on\n")
@@ -1753,7 +1844,488 @@ OutputLogMessage("F2 on\n")
 recoill = false
 		
     end
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C8key and IsModifierPressed(Second)) then
+	current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == F2key and IsModifierPressed(Second)) then
+		current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == LXkey and IsModifierPressed(Second)) then
+					current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == JQkey and IsModifierPressed(Second)) then
+		current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C416Ckey and IsModifierPressed(Second)) then
+		current_weapon = "noo6"
+OutputLogMessage("c416 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == ALDkey and IsModifierPressed(Second)) then
+	current_weapon = "noo16"
+OutputLogMessage("ALD556 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MPXkey and IsModifierPressed(Second)) then
+	current_weapon = "noo17"
+OutputLogMessage("MPX on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DCkey and IsModifierPressed(Second)) then
+			current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP5key and IsModifierPressed(Second)) then
+			current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MP7key and IsModifierPressed(Second)) then
+					current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == C36Ckey and IsModifierPressed(Second)) then
+		current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AK12key and IsModifierPressed(Second)) then
+		current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == HWkey and IsModifierPressed(Second)) then
+		current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == XIkey and IsModifierPressed(Second)) then
+		current_weapon = "noo19"
+OutputLogMessage("XI556 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == M762key and IsModifierPressed(Second)) then
+recoil = true
+current_weapon = "noo20"
 
+OutputLogMessage("M762 on\n")
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == K1Akey and IsModifierPressed(Second)) then
+		current_weapon = "noo21"
+OutputLogMessage("K1A on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==T95key and IsModifierPressed(Second)) then
+		current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+end 
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==TC12key and IsModifierPressed(Second)) then
+		current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==AUG20key and IsModifierPressed(Second)) then
+		current_weapon = "noo29"
+OutputLogMessage("AUG2.0 on\n")
+recoil = true
+end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==AK47key and IsModifierPressed(Second)) then
+		current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+end
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==G8key and IsModifierPressed(Second)) then
+		current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+end 
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==UMP45key and IsModifierPressed(Second)) then
+		current_weapon = "noo30"
+OutputLogMessage("UMP on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==FMGkey and IsModifierPressed(Second)) then
+		current_weapon = "noo31"
+OutputLogMessage("FMG on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==V9X19key and IsModifierPressed(Second)) then
+		current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==MP5SDkey and IsModifierPressed(Second)) then
+		current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==arx2000key and IsModifierPressed(Second)) then
+			current_weapon = "noo34"
+OutputLogMessage("arx2000 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==T5SMGkey and IsModifierPressed(Second)) then
+	current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==SC300key and IsModifierPressed(Second)) then
+current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg ==V308key and IsModifierPressed(Second)) then
+					current_weapon = "noo35"
+OutputLogMessage("V3082000 on\n")
+recoil = true
+recoill = false
+end
+
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == VKTkey and IsModifierPressed(Second)) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == MX4key and IsModifierPressed(Second)) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == DP27key and IsModifierPressed(Second)) then 
+		current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == P10key and IsModifierPressed(Second)) then 
+		current_weapon = "noo41"
+OutputLogMessage("p10 on\n")
+recoil = true
+recoill = false
+end
+	
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == AR33key and IsModifierPressed(Second)) then 
+			current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end		
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == R4Ckey and IsModifierPressed(Second)) then 
+			current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "MOUSE_BUTTON_PRESSED" and arg == UZKkey and IsModifierPressed(Second)) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+    if (event == "MOUSE_BUTTON_PRESSED" and arg == OneClose) then 
+	OutputLogMessage("GB on\n")
+current_weapon = "none"
+		
+ recoil = false
+recoill = false 
+    end	
+------------------------------------------------------
+
+
+if (event == "G_PRESSED" and arg == MK17_Gkey) then
+recoil = true
+current_weapon = "noo18"
+OutputLogMessage("MK17 on\n")
+    end
+
+if (event == "G_PRESSED" and arg == QI552_Gkey) then
+recoil = true
+current_weapon = "noo22"
+
+OutputLogMessage("552 on\n")
+    end
+
+if (event == "G_PRESSED" and arg == ALD_Gkey) then
+	current_weapon = "noo16"
+OutputLogMessage("ALD556 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == AUG_Gkey) then
+recoil = true
+current_weapon = "noo15"
+OutputLogMessage("AUG on\n")
+    end
+
+
+if (event == "G_PRESSED" and arg == L85A_Gkey) then
+				current_weapon = "noo7"
+OutputLogMessage("DC on\n")
+recoil = true
+recoill = false
+		
+    end	
+
+
+if (event == "G_PRESSED" and arg == M4_Gkey) then
+			current_weapon = "noo8"
+OutputLogMessage("m4 on\n")
+recoil = true
+
+		
+    end
+
+
+if (event == "G_PRESSED" and arg == HW_Gkey) then
+				current_weapon = "noo10"
+OutputLogMessage("HW on\n")
+recoil = true
+recoill = false
+		
+    end
+
+if (event == "G_PRESSED" and arg == LD_Gkey) then
+				current_weapon = "noo11"
+OutputLogMessage("LD on\n")
+recoil = true
+recoill = false
+		
+    end
+
+if (event == "G_PRESSED" and arg == MP7_Gkey) then
+					current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end
+
+	if (event == "G_PRESSED" and arg == AK12_Gkey) then
+recoil = true
+ recoill = false
+			current_weapon = "noo1"
+OutputLogMessage("AK12 on\n")
+end 
+if (event == "G_PRESSED" and arg == C8_Gkey) then
+			current_weapon = "noo9"
+OutputLogMessage("C8 on\n")
+recoil = true
+
+		
+end 
+if (event == "G_PRESSED" and arg == F2_Gkey) then
+current_weapon = "noo12"
+OutputLogMessage("F2 on\n")
+ recoil = true
+recoill = false
+end 
+if (event == "G_PRESSED" and arg == MP5_Gkey) then
+current_weapon = "noo3"
+OutputLogMessage("mp5 on\n")
+recoil = true
+
+end 
+if (event == "G_PRESSED" and arg == XI_Gkey) then
+recoil = true
+current_weapon = "noo19"
+
+OutputLogMessage("XI556 on\n")
+end 
+if (event == "G_PRESSED" and arg == M60_Gkey) then
+	current_weapon = "noo2"
+OutputLogMessage("36C on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == SMG_Gkey) then
+recoil = true
+current_weapon = "noo5"
+
+OutputLogMessage("smg on\n")
+end 
+if (event == "G_PRESSED" and arg == C416_Gkey) then
+urrent_weapon = "noo6"
+recoil = true
+OutputLogMessage("C416 on\n")
+end 
+
+if (event == "G_PRESSED" and arg == M762_Gkey) then
+recoil = true
+current_weapon = "noo20"
+
+OutputLogMessage("M762 on\n")
+end 
+if (event == "G_PRESSED" and arg == K1A_Gkey) then
+urrent_weapon = "noo21"
+recoil = true
+OutputLogMessage("KIA on\n")
+end 
+if (event == "G_PRESSED" and arg == ELA_Gkey) then
+urrent_weapon = "noo23"
+recoil = true
+OutputLogMessage("ELA on\n")
+end 
+if (event == "G_PRESSED" and arg == T95_Gkey) then
+		current_weapon = "noo25"
+OutputLogMessage("T95 on\n")
+recoil = true
+end 
+
+----
+if (event == "G_PRESSED" and arg == MP5SD_Gkey) then
+	current_weapon = "noo32"
+OutputLogMessage("MP5SD on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == V9X19_Gkey) then
+				current_weapon = "noo33"
+OutputLogMessage("9X19 on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == UMP45_Gkey) then
+		current_weapon = "noo30"
+OutputLogMessage("UMP on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == G8_Gkey) then
+		current_weapon = "noo27"
+OutputLogMessage("G8 on\n")
+recoil = true
+end 
+if (event == "G_PRESSED" and arg == TC12_Gkey) then
+		current_weapon = "noo26"
+OutputLogMessage("TC12 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == LX_Gkey) then
+	current_weapon = "noo14"
+OutputLogMessage("LX on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == JQ_Gkey) then
+	current_weapon = "noo13"
+OutputLogMessage("JQ on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == MP7_Gkey) then
+						current_weapon = "noo4"
+OutputLogMessage("mp7 on\n")
+recoil = true
+end 
+
+if (event == "G_PRESSED" and arg == AK47_Gkey) then
+		current_weapon = "noo28"
+OutputLogMessage("AK47 on\n")
+recoil = true
+end 
+
+
+if (event == "G_PRESSED" and arg == T5SMG_Gkey) then
+			current_weapon = "noo36"
+OutputLogMessage("T5SMG on\n")
+recoil = true
+recoill = false
+end 
+if (event == "G_PRESSED" and arg == SC300_Gkey) then
+		current_weapon = "noo37"
+OutputLogMessage("SC300 on\n")
+recoil = true
+recoill = false
+end 
+
+
+if (event == "G_PRESSED" and arg ==  VKT_Gkey) then 
+			current_weapon = "noo38"
+OutputLogMessage("VKT on\n")
+recoil = true
+recoill = false
+end
+
+if (event =="G_PRESSED" and arg ==  MX4_Gkey) then 
+			current_weapon = "noo39"
+OutputLogMessage("MX4 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "G_PRESSED" and arg ==  DP27_Gkey) then 
+		current_weapon = "noo40"
+OutputLogMessage("DP27 on\n")
+recoil = true
+recoill = false
+end
+
+if (event == "G_PRESSED" and arg ==  P10_Gkey) then 
+		current_weapon = "noo41"
+OutputLogMessage("P10 on\n")
+recoil = true
+recoill = false
+end
+	
+if (event == "G_PRESSED" and arg ==  AR33_Gkey) then 
+		current_weapon = "noo42"
+OutputLogMessage("AR33 on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "G_PRESSED" and arg ==  R4C_Gkey) then 
+		current_weapon = "noo43"
+OutputLogMessage("R4C on\n")
+recoil = true
+recoill = false
+end	
+
+if (event == "G_PRESSED" and arg ==  UZK_Gkey) then 
+			current_weapon = "noo44"
+OutputLogMessage("UZK on\n")
+recoil = true
+recoill = false
+end	
+
+
+if (event == "G_PRESSED" and arg == OneClose_Gkey) then
+	OutputLogMessage("GB on\n")
+current_weapon = "none"
+		
+ recoil = false
+recoill = false 
+end 
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -1822,10 +2394,6 @@ elseif
 (current_weapon == "noo11") then 
  ACPu()
 
-elseif 
-(current_weapon == "noo110") then 
- ACP0u()
-	
 elseif 
 (current_weapon == "noo12") then 
 
